@@ -1,0 +1,38 @@
+{
+  "name": "My_Project",
+  "version": "0.1.0",
+  "mcu": "N32G031K8T6",
+  "chip": {
+    "family": "N32G031",
+    "variant": null,
+    "core": "cortex-m0",
+    "clock": null
+  },
+  "peripherals": [
+    "gpio",
+    "rcc",
+    "tim"
+  ],
+  "build": {
+    "optimization": "O0",
+    "debug_symbols": true,
+    "extra_flags": [],
+    "output_name": "main",
+    "warnings": "all",
+    "defines": [],
+    "include_paths": ["inc","src"],
+    "extra_cflags": [],
+    "extra_ldflags": [],
+    "extra_libs": [],
+    "linker_script": null
+  },
+  "flash": {
+    "interface": "cmsis-dap",
+    "transport": "swd",
+    "speed": 1000,
+    "verify": true,
+    "reset_after": true,
+    "target_config": null,
+    "reset_config": "none separate"
+  }
+}

@@ -1,0 +1,2464 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+                              build/src/system_n32g031.o (__aeabi_uidiv)
+C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+                              build/drivers/src/n32g031_i2c.o (__aeabi_idiv)
+C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+                              C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-atexit.o)
+                              C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o (atexit)
+C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-exit.o)
+                              C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o (exit)
+C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-findfp.o)
+                              C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-exit.o) (__stdio_exit_handler)
+C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-fwalk.o)
+                              C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-findfp.o) (_fwalk_sglue)
+C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-stdio.o)
+                              C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-findfp.o) (__sread)
+C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-memset.o)
+                              C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o (memset)
+C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-closer.o)
+                              C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-stdio.o) (_close_r)
+C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-reent.o)
+                              C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-closer.o) (errno)
+C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-impure.o)
+                              C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-reent.o) (_impure_ptr)
+C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-lseekr.o)
+                              C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-stdio.o) (_lseek_r)
+C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-readr.o)
+                              C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-stdio.o) (_read_r)
+C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-writer.o)
+                              C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-stdio.o) (_write_r)
+C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-init.o)
+                              C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o (__libc_init_array)
+C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-fini.o)
+                              C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o (__libc_fini_array)
+C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-lock.o)
+                              C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-findfp.o) (__retarget_lock_init_recursive)
+C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-__atexit.o)
+                              C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-atexit.o) (__register_exitproc)
+C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-__call_atexit.o)
+                              C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-exit.o) (__call_exitprocs)
+C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-freer.o)
+                              C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-reent.o) (_free_r)
+C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-mallocr.o)
+                              C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-findfp.o) (_malloc_r)
+C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-mlock.o)
+                              C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-freer.o) (__malloc_lock)
+C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-fclose.o)
+                              C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-findfp.o) (_fclose_r)
+C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-fflush.o)
+                              C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-fclose.o) (__sflush_r)
+C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-sbrkr.o)
+                              C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-freer.o) (_sbrk_r)
+C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-sysconf.o)
+                              C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-freer.o) (sysconf)
+C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-errno.o)
+                              C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-sysconf.o) (__errno)
+C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(close.o)
+                              C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-closer.o) (_close)
+C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(lseek.o)
+                              C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-lseekr.o) (_lseek)
+C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(read.o)
+                              C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-readr.o) (_read)
+C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(sbrk.o)
+                              C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-sbrkr.o) (_sbrk)
+C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(write.o)
+                              C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-writer.o) (_write)
+C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(_exit.o)
+                              C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-exit.o) (_exit)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp/crti.o
+ .data          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp/crti.o
+ .bss           0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp/crti.o
+ .text          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp/crtbegin.o
+ .data          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp/crtbegin.o
+ .bss           0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp/crtbegin.o
+ .rodata.all_implied_fbits
+                0x00000000       0x24 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp/crtbegin.o
+ .data.__dso_handle
+                0x00000000        0x4 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp/crtbegin.o
+ .text          0x00000000       0x74 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .data          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .bss           0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .ARM.extab     0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .ARM.exidx     0x00000000       0x10 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .ARM.attributes
+                0x00000000       0x1b C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .text          0x00000000        0x0 build/src/main.o
+ .data          0x00000000        0x0 build/src/main.o
+ .bss           0x00000000        0x0 build/src/main.o
+ .text          0x00000000        0x0 build/src/misc.o
+ .data          0x00000000        0x0 build/src/misc.o
+ .bss           0x00000000        0x0 build/src/misc.o
+ .text.NVIC_EnableIRQ
+                0x00000000       0x2c build/src/misc.o
+ .text.NVIC_DisableIRQ
+                0x00000000       0x30 build/src/misc.o
+ .text.NVIC_SetPriority
+                0x00000000       0xdc build/src/misc.o
+ .text.NVIC_Init
+                0x00000000       0x44 build/src/misc.o
+ .text.SysTick_CLKSourceConfig
+                0x00000000       0x34 build/src/misc.o
+ .debug_info    0x00000000      0x48e build/src/misc.o
+ .debug_abbrev  0x00000000      0x1c3 build/src/misc.o
+ .debug_aranges
+                0x00000000       0x40 build/src/misc.o
+ .debug_rnglists
+                0x00000000       0x2c build/src/misc.o
+ .debug_line    0x00000000      0x241 build/src/misc.o
+ .debug_str     0x00000000      0x4ca build/src/misc.o
+ .comment       0x00000000       0x3a build/src/misc.o
+ .debug_frame   0x00000000       0xb0 build/src/misc.o
+ .ARM.attributes
+                0x00000000       0x2c build/src/misc.o
+ .text          0x00000000        0x0 build/src/n32g031_it.o
+ .data          0x00000000        0x0 build/src/n32g031_it.o
+ .bss           0x00000000        0x0 build/src/n32g031_it.o
+ .text.DMA_IRQ_HANDLER
+                0x00000000        0xa build/src/n32g031_it.o
+ .text          0x00000000        0x0 build/src/oled.o
+ .data          0x00000000        0x0 build/src/oled.o
+ .bss           0x00000000        0x0 build/src/oled.o
+ .rodata.BigNum16x32
+                0x00000000      0x2c0 build/src/oled.o
+ .text          0x00000000        0x0 build/src/system_n32g031.o
+ .data          0x00000000        0x0 build/src/system_n32g031.o
+ .bss           0x00000000        0x0 build/src/system_n32g031.o
+ .data.SystemCoreClock
+                0x00000000        0x4 build/src/system_n32g031.o
+ .rodata.AHBPrescTable
+                0x00000000       0x10 build/src/system_n32g031.o
+ .text.SystemCoreClockUpdate
+                0x00000000      0x178 build/src/system_n32g031.o
+ .text          0x00000000        0x0 build/src/utils.o
+ .data          0x00000000        0x0 build/src/utils.o
+ .bss           0x00000000        0x0 build/src/utils.o
+ .text.delay_ms
+                0x00000000       0x5c build/src/utils.o
+ .text.delay_us
+                0x00000000       0x60 build/src/utils.o
+ .debug_info    0x00000000      0x12e build/src/utils.o
+ .debug_abbrev  0x00000000       0xe3 build/src/utils.o
+ .debug_aranges
+                0x00000000       0x28 build/src/utils.o
+ .debug_rnglists
+                0x00000000       0x19 build/src/utils.o
+ .debug_line    0x00000000      0x1cb build/src/utils.o
+ .debug_str     0x00000000      0x182 build/src/utils.o
+ .comment       0x00000000       0x3a build/src/utils.o
+ .debug_frame   0x00000000       0x50 build/src/utils.o
+ .ARM.attributes
+                0x00000000       0x2c build/src/utils.o
+ .text          0x00000000        0x0 build/drivers/src/n32g031_adc.o
+ .data          0x00000000        0x0 build/drivers/src/n32g031_adc.o
+ .bss           0x00000000        0x0 build/drivers/src/n32g031_adc.o
+ .text.ADC_DeInit
+                0x00000000       0x34 build/drivers/src/n32g031_adc.o
+ .text.ADC_Init
+                0x00000000       0xa8 build/drivers/src/n32g031_adc.o
+ .text.ADC_InitStruct
+                0x00000000       0x2e build/drivers/src/n32g031_adc.o
+ .text.ADC_Enable
+                0x00000000       0x3a build/drivers/src/n32g031_adc.o
+ .text.ADC_EnableDMA
+                0x00000000       0x40 build/drivers/src/n32g031_adc.o
+ .text.ADC_ConfigInt
+                0x00000000       0x5a build/drivers/src/n32g031_adc.o
+ .text.ADC_EnableSoftwareStartConv
+                0x00000000       0x40 build/drivers/src/n32g031_adc.o
+ .text.ADC_GetSoftwareStartConvStatus
+                0x00000000       0x3a build/drivers/src/n32g031_adc.o
+ .text.ADC_ConfigDiscModeChannelCount
+                0x00000000       0x48 build/drivers/src/n32g031_adc.o
+ .text.ADC_EnableDiscMode
+                0x00000000       0x40 build/drivers/src/n32g031_adc.o
+ .text.ADC_ConfigRegularChannel
+                0x00000000      0x1a6 build/drivers/src/n32g031_adc.o
+ .text.ADC_EnableExternalTrigConv
+                0x00000000       0x40 build/drivers/src/n32g031_adc.o
+ .text.ADC_GetDat
+                0x00000000       0x16 build/drivers/src/n32g031_adc.o
+ .text.ADC_EnableAutoInjectedConv
+                0x00000000       0x40 build/drivers/src/n32g031_adc.o
+ .text.ADC_EnableInjectedDiscMode
+                0x00000000       0x40 build/drivers/src/n32g031_adc.o
+ .text.ADC_ConfigExternalTrigInjectedConv
+                0x00000000       0x38 build/drivers/src/n32g031_adc.o
+ .text.ADC_EnableExternalTrigInjectedConv
+                0x00000000       0x40 build/drivers/src/n32g031_adc.o
+ .text.ADC_EnableSoftwareStartInjectedConv
+                0x00000000       0x40 build/drivers/src/n32g031_adc.o
+ .text.ADC_GetSoftwareStartInjectedConvCmdStatus
+                0x00000000       0x3a build/drivers/src/n32g031_adc.o
+ .text.ADC_ConfigInjectedChannel
+                0x00000000      0x124 build/drivers/src/n32g031_adc.o
+ .text.ADC_ConfigInjectedSequencerLength
+                0x00000000       0x48 build/drivers/src/n32g031_adc.o
+ .text.ADC_SetInjectedOffsetDat
+                0x00000000       0x3a build/drivers/src/n32g031_adc.o
+ .text.ADC_GetInjectedConversionDat
+                0x00000000       0x30 build/drivers/src/n32g031_adc.o
+ .text.ADC_ConfigAnalogWatchdogWorkChannelType
+                0x00000000       0x38 build/drivers/src/n32g031_adc.o
+ .text.ADC_ConfigAnalogWatchdogThresholds
+                0x00000000       0x30 build/drivers/src/n32g031_adc.o
+ .text.ADC_ConfigAnalogWatchdogSingleChannel
+                0x00000000       0x38 build/drivers/src/n32g031_adc.o
+ .text.ADC_EnableTempSensor
+                0x00000000       0x40 build/drivers/src/n32g031_adc.o
+ .text.ADC_EnableVrefint
+                0x00000000       0x3c build/drivers/src/n32g031_adc.o
+ .text.ADC_AHB_Clock_Mode_Config
+                0x00000000       0x1e build/drivers/src/n32g031_adc.o
+ .text.ADC_PLL_Clock_Mode_Config
+                0x00000000       0x1c build/drivers/src/n32g031_adc.o
+ .text.ADC_GetFlagStatus
+                0x00000000       0x40 build/drivers/src/n32g031_adc.o
+ .text.ADC_ClearFlag
+                0x00000000       0x24 build/drivers/src/n32g031_adc.o
+ .text.ADC_GetIntStatus
+                0x00000000       0x64 build/drivers/src/n32g031_adc.o
+ .text.ADC_ClearIntPendingBit
+                0x00000000       0x38 build/drivers/src/n32g031_adc.o
+ .text.ADC_InitEx
+                0x00000000       0xb0 build/drivers/src/n32g031_adc.o
+ .text.ADC_GetFlagStatusNew
+                0x00000000       0x40 build/drivers/src/n32g031_adc.o
+ .text.ADC_ConfigClk
+                0x00000000       0x58 build/drivers/src/n32g031_adc.o
+ .text.ADC_ConfigOPAControl
+                0x00000000       0xf4 build/drivers/src/n32g031_adc.o
+ .text.ADC_ConfigOPASetUpTime
+                0x00000000       0x48 build/drivers/src/n32g031_adc.o
+ .text.ADC_SetOPACtrl
+                0x00000000       0x1c build/drivers/src/n32g031_adc.o
+ .text.ADC_GetOPACtrl
+                0x00000000       0x14 build/drivers/src/n32g031_adc.o
+ .debug_info    0x00000000      0xd9b build/drivers/src/n32g031_adc.o
+ .debug_abbrev  0x00000000      0x21d build/drivers/src/n32g031_adc.o
+ .debug_aranges
+                0x00000000      0x160 build/drivers/src/n32g031_adc.o
+ .debug_rnglists
+                0x00000000      0x108 build/drivers/src/n32g031_adc.o
+ .debug_line    0x00000000      0x90c build/drivers/src/n32g031_adc.o
+ .debug_str     0x00000000      0x85d build/drivers/src/n32g031_adc.o
+ .comment       0x00000000       0x3a build/drivers/src/n32g031_adc.o
+ .debug_frame   0x00000000      0x52c build/drivers/src/n32g031_adc.o
+ .ARM.attributes
+                0x00000000       0x2c build/drivers/src/n32g031_adc.o
+ .text          0x00000000        0x0 build/drivers/src/n32g031_beeper.o
+ .data          0x00000000        0x0 build/drivers/src/n32g031_beeper.o
+ .bss           0x00000000        0x0 build/drivers/src/n32g031_beeper.o
+ .text.BEEPER_Init
+                0x00000000       0x38 build/drivers/src/n32g031_beeper.o
+ .text.BEEPER_Config
+                0x00000000       0x88 build/drivers/src/n32g031_beeper.o
+ .debug_info    0x00000000      0x169 build/drivers/src/n32g031_beeper.o
+ .debug_abbrev  0x00000000       0xf5 build/drivers/src/n32g031_beeper.o
+ .debug_aranges
+                0x00000000       0x28 build/drivers/src/n32g031_beeper.o
+ .debug_rnglists
+                0x00000000       0x1a build/drivers/src/n32g031_beeper.o
+ .debug_line    0x00000000      0x192 build/drivers/src/n32g031_beeper.o
+ .debug_str     0x00000000      0x1d5 build/drivers/src/n32g031_beeper.o
+ .comment       0x00000000       0x3a build/drivers/src/n32g031_beeper.o
+ .debug_frame   0x00000000       0x50 build/drivers/src/n32g031_beeper.o
+ .ARM.attributes
+                0x00000000       0x2c build/drivers/src/n32g031_beeper.o
+ .text          0x00000000        0x0 build/drivers/src/n32g031_comp.o
+ .data          0x00000000        0x0 build/drivers/src/n32g031_comp.o
+ .bss           0x00000000        0x0 build/drivers/src/n32g031_comp.o
+ .text.COMP_DeInit
+                0x00000000        0xa build/drivers/src/n32g031_comp.o
+ .text.COMP_StructInit
+                0x00000000       0x5a build/drivers/src/n32g031_comp.o
+ .text.COMP_Init
+                0x00000000       0xb4 build/drivers/src/n32g031_comp.o
+ .text.COMP_Enable
+                0x00000000       0x34 build/drivers/src/n32g031_comp.o
+ .text.COMP_SetInpSel
+                0x00000000       0x38 build/drivers/src/n32g031_comp.o
+ .text.COMP_SetInmSel
+                0x00000000       0x38 build/drivers/src/n32g031_comp.o
+ .text.COMP_SetOutTrig
+                0x00000000       0x3c build/drivers/src/n32g031_comp.o
+ .text.COMP_ConfigInt
+                0x00000000       0x48 build/drivers/src/n32g031_comp.o
+ .text.COMP_GetIntStatus
+                0x00000000       0x44 build/drivers/src/n32g031_comp.o
+ .text.COMP_ClrIntStatus
+                0x00000000       0x38 build/drivers/src/n32g031_comp.o
+ .text.COMP_GetCompOutStatus
+                0x00000000       0x38 build/drivers/src/n32g031_comp.o
+ .text.COMP_ConfigCTRLLock
+                0x00000000       0x48 build/drivers/src/n32g031_comp.o
+ .text.COMP_ConfigVREFx
+                0x00000000       0x70 build/drivers/src/n32g031_comp.o
+ .debug_info    0x00000000      0xaf1 build/drivers/src/n32g031_comp.o
+ .debug_abbrev  0x00000000      0x1e6 build/drivers/src/n32g031_comp.o
+ .debug_aranges
+                0x00000000       0x80 build/drivers/src/n32g031_comp.o
+ .debug_rnglists
+                0x00000000       0x5c build/drivers/src/n32g031_comp.o
+ .debug_line    0x00000000      0x3bc build/drivers/src/n32g031_comp.o
+ .debug_str     0x00000000     0x1399 build/drivers/src/n32g031_comp.o
+ .comment       0x00000000       0x3a build/drivers/src/n32g031_comp.o
+ .debug_frame   0x00000000      0x1ac build/drivers/src/n32g031_comp.o
+ .ARM.attributes
+                0x00000000       0x2c build/drivers/src/n32g031_comp.o
+ .text          0x00000000        0x0 build/drivers/src/n32g031_crc.o
+ .data          0x00000000        0x0 build/drivers/src/n32g031_crc.o
+ .bss           0x00000000        0x0 build/drivers/src/n32g031_crc.o
+ .text.CRC32_ResetCrc
+                0x00000000       0x14 build/drivers/src/n32g031_crc.o
+ .text.CRC32_CalcCrc
+                0x00000000       0x20 build/drivers/src/n32g031_crc.o
+ .text.CRC32_CalcBufCrc
+                0x00000000       0x40 build/drivers/src/n32g031_crc.o
+ .text.CRC32_GetCrc
+                0x00000000       0x14 build/drivers/src/n32g031_crc.o
+ .text.CRC32_SetIDat
+                0x00000000       0x20 build/drivers/src/n32g031_crc.o
+ .text.CRC32_GetIDat
+                0x00000000       0x14 build/drivers/src/n32g031_crc.o
+ .text.__CRC16_SetLittleEndianFmt
+                0x00000000       0x1c build/drivers/src/n32g031_crc.o
+ .text.__CRC16_SetBigEndianFmt
+                0x00000000       0x1c build/drivers/src/n32g031_crc.o
+ .text.__CRC16_SetCleanEnable
+                0x00000000       0x1c build/drivers/src/n32g031_crc.o
+ .text.__CRC16_SetCleanDisable
+                0x00000000       0x1c build/drivers/src/n32g031_crc.o
+ .text.__CRC16_CalcCrc
+                0x00000000       0x28 build/drivers/src/n32g031_crc.o
+ .text.__CRC16_SetCrc
+                0x00000000       0x20 build/drivers/src/n32g031_crc.o
+ .text.__CRC16_GetCrc
+                0x00000000       0x14 build/drivers/src/n32g031_crc.o
+ .text.__CRC16_SetLRC
+                0x00000000       0x20 build/drivers/src/n32g031_crc.o
+ .text.__CRC16_GetLRC
+                0x00000000       0x14 build/drivers/src/n32g031_crc.o
+ .text.CRC16_CalcBufCrc
+                0x00000000       0x48 build/drivers/src/n32g031_crc.o
+ .text.CRC16_CalcCRC
+                0x00000000       0x28 build/drivers/src/n32g031_crc.o
+ .debug_info    0x00000000      0x3aa build/drivers/src/n32g031_crc.o
+ .debug_abbrev  0x00000000      0x123 build/drivers/src/n32g031_crc.o
+ .debug_aranges
+                0x00000000       0xa0 build/drivers/src/n32g031_crc.o
+ .debug_rnglists
+                0x00000000       0x73 build/drivers/src/n32g031_crc.o
+ .debug_line    0x00000000      0x346 build/drivers/src/n32g031_crc.o
+ .debug_str     0x00000000      0x34b build/drivers/src/n32g031_crc.o
+ .comment       0x00000000       0x3a build/drivers/src/n32g031_crc.o
+ .debug_frame   0x00000000      0x20c build/drivers/src/n32g031_crc.o
+ .ARM.attributes
+                0x00000000       0x2c build/drivers/src/n32g031_crc.o
+ .text          0x00000000        0x0 build/drivers/src/n32g031_dbg.o
+ .data          0x00000000        0x0 build/drivers/src/n32g031_dbg.o
+ .bss           0x00000000        0x0 build/drivers/src/n32g031_dbg.o
+ .text.GetUCID  0x00000000       0x58 build/drivers/src/n32g031_dbg.o
+ .text.GetUID   0x00000000       0x58 build/drivers/src/n32g031_dbg.o
+ .text.GetDBGMCU_ID
+                0x00000000       0x58 build/drivers/src/n32g031_dbg.o
+ .debug_info    0x00000000      0x138 build/drivers/src/n32g031_dbg.o
+ .debug_abbrev  0x00000000       0x9d build/drivers/src/n32g031_dbg.o
+ .debug_aranges
+                0x00000000       0x30 build/drivers/src/n32g031_dbg.o
+ .debug_rnglists
+                0x00000000       0x1f build/drivers/src/n32g031_dbg.o
+ .debug_line    0x00000000      0x1b8 build/drivers/src/n32g031_dbg.o
+ .debug_str     0x00000000      0x19b build/drivers/src/n32g031_dbg.o
+ .comment       0x00000000       0x3a build/drivers/src/n32g031_dbg.o
+ .debug_frame   0x00000000       0x70 build/drivers/src/n32g031_dbg.o
+ .ARM.attributes
+                0x00000000       0x2c build/drivers/src/n32g031_dbg.o
+ .text          0x00000000        0x0 build/drivers/src/n32g031_dma.o
+ .data          0x00000000        0x0 build/drivers/src/n32g031_dma.o
+ .bss           0x00000000        0x0 build/drivers/src/n32g031_dma.o
+ .text.DMA_DeInit
+                0x00000000       0xc4 build/drivers/src/n32g031_dma.o
+ .text.DMA_Init
+                0x00000000       0x7c build/drivers/src/n32g031_dma.o
+ .text.DMA_StructInit
+                0x00000000       0x52 build/drivers/src/n32g031_dma.o
+ .text.DMA_EnableChannel
+                0x00000000       0x3c build/drivers/src/n32g031_dma.o
+ .text.DMA_ConfigInt
+                0x00000000       0x3a build/drivers/src/n32g031_dma.o
+ .text.DMA_SetCurrDataCounter
+                0x00000000       0x1e build/drivers/src/n32g031_dma.o
+ .text.DMA_GetCurrDataCounter
+                0x00000000       0x16 build/drivers/src/n32g031_dma.o
+ .text.DMA_GetFlagStatus
+                0x00000000       0x42 build/drivers/src/n32g031_dma.o
+ .text.DMA_ClearFlag
+                0x00000000       0x18 build/drivers/src/n32g031_dma.o
+ .text.DMA_GetIntStatus
+                0x00000000       0x42 build/drivers/src/n32g031_dma.o
+ .text.DMA_ClrIntPendingBit
+                0x00000000       0x18 build/drivers/src/n32g031_dma.o
+ .text.DMA_RequestRemap
+                0x00000000       0x30 build/drivers/src/n32g031_dma.o
+ .debug_info    0x00000000      0x502 build/drivers/src/n32g031_dma.o
+ .debug_abbrev  0x00000000      0x1b6 build/drivers/src/n32g031_dma.o
+ .debug_aranges
+                0x00000000       0x78 build/drivers/src/n32g031_dma.o
+ .debug_rnglists
+                0x00000000       0x56 build/drivers/src/n32g031_dma.o
+ .debug_line    0x00000000      0x363 build/drivers/src/n32g031_dma.o
+ .debug_str     0x00000000      0x398 build/drivers/src/n32g031_dma.o
+ .comment       0x00000000       0x3a build/drivers/src/n32g031_dma.o
+ .debug_frame   0x00000000      0x190 build/drivers/src/n32g031_dma.o
+ .ARM.attributes
+                0x00000000       0x2c build/drivers/src/n32g031_dma.o
+ .text          0x00000000        0x0 build/drivers/src/n32g031_exti.o
+ .data          0x00000000        0x0 build/drivers/src/n32g031_exti.o
+ .bss           0x00000000        0x0 build/drivers/src/n32g031_exti.o
+ .text.EXTI_DeInit
+                0x00000000       0x30 build/drivers/src/n32g031_exti.o
+ .text.EXTI_InitPeripheral
+                0x00000000       0xe0 build/drivers/src/n32g031_exti.o
+ .text.EXTI_InitStruct
+                0x00000000       0x28 build/drivers/src/n32g031_exti.o
+ .text.EXTI_TriggerSWInt
+                0x00000000       0x20 build/drivers/src/n32g031_exti.o
+ .text.EXTI_GetStatusFlag
+                0x00000000       0x3c build/drivers/src/n32g031_exti.o
+ .text.EXTI_ClrStatusFlag
+                0x00000000       0x1c build/drivers/src/n32g031_exti.o
+ .text.EXTI_GetITStatus
+                0x00000000       0x50 build/drivers/src/n32g031_exti.o
+ .text.EXTI_ClrITPendBit
+                0x00000000       0x1c build/drivers/src/n32g031_exti.o
+ .text.EXTI_RTCTimeStampSel
+                0x00000000       0x2c build/drivers/src/n32g031_exti.o
+ .debug_info    0x00000000      0x35d build/drivers/src/n32g031_exti.o
+ .debug_abbrev  0x00000000      0x178 build/drivers/src/n32g031_exti.o
+ .debug_aranges
+                0x00000000       0x60 build/drivers/src/n32g031_exti.o
+ .debug_rnglists
+                0x00000000       0x44 build/drivers/src/n32g031_exti.o
+ .debug_line    0x00000000      0x318 build/drivers/src/n32g031_exti.o
+ .debug_str     0x00000000      0x34e build/drivers/src/n32g031_exti.o
+ .comment       0x00000000       0x3a build/drivers/src/n32g031_exti.o
+ .debug_frame   0x00000000      0x12c build/drivers/src/n32g031_exti.o
+ .ARM.attributes
+                0x00000000       0x2c build/drivers/src/n32g031_exti.o
+ .text          0x00000000        0x0 build/drivers/src/n32g031_flash.o
+ .data          0x00000000        0x0 build/drivers/src/n32g031_flash.o
+ .bss           0x00000000        0x0 build/drivers/src/n32g031_flash.o
+ .text.FLASH_SetLatency
+                0x00000000       0x34 build/drivers/src/n32g031_flash.o
+ .text.FLASH_PrefetchBufSet
+                0x00000000       0x2c build/drivers/src/n32g031_flash.o
+ .text.FLASH_Unlock
+                0x00000000       0x24 build/drivers/src/n32g031_flash.o
+ .text.FLASH_Lock
+                0x00000000       0x1c build/drivers/src/n32g031_flash.o
+ .text.FLASH_EraseOnePage
+                0x00000000       0x80 build/drivers/src/n32g031_flash.o
+ .text.FLASH_MassErase
+                0x00000000       0x74 build/drivers/src/n32g031_flash.o
+ .text.FLASH_EraseOB
+                0x00000000      0x114 build/drivers/src/n32g031_flash.o
+ .text.FLASH_ConfigALLOptionByte
+                0x00000000      0x20c build/drivers/src/n32g031_flash.o
+ .text.FLASH_ProgramWord
+                0x00000000       0x7c build/drivers/src/n32g031_flash.o
+ .text.FLASH_ProgramOBData
+                0x00000000       0xac build/drivers/src/n32g031_flash.o
+ .text.FLASH_EnWriteProtection
+                0x00000000      0x104 build/drivers/src/n32g031_flash.o
+ .text.FLASH_ReadOutProtectionL1
+                0x00000000      0x138 build/drivers/src/n32g031_flash.o
+ .text.FLASH_ReadOutProtectionL2_ENABLE
+                0x00000000      0x144 build/drivers/src/n32g031_flash.o
+ .text.FLASH_ConfigUserOB
+                0x00000000      0x178 build/drivers/src/n32g031_flash.o
+ .text.FLASH_GetUserOB
+                0x00000000       0x18 build/drivers/src/n32g031_flash.o
+ .text.FLASH_GetWriteProtectionOB
+                0x00000000       0x14 build/drivers/src/n32g031_flash.o
+ .text.FLASH_GetReadOutProtectionSTS
+                0x00000000       0x34 build/drivers/src/n32g031_flash.o
+ .text.FLASH_GetReadOutProtectionL2STS
+                0x00000000       0x34 build/drivers/src/n32g031_flash.o
+ .text.FLASH_GetPrefetchBufSTS
+                0x00000000       0x34 build/drivers/src/n32g031_flash.o
+ .text.FLASH_INTConfig
+                0x00000000       0x40 build/drivers/src/n32g031_flash.o
+ .text.FLASH_GetFlagSTS
+                0x00000000       0x60 build/drivers/src/n32g031_flash.o
+ .text.FLASH_ClearFlag
+                0x00000000       0x1c build/drivers/src/n32g031_flash.o
+ .text.FLASH_GetSTS
+                0x00000000       0x5c build/drivers/src/n32g031_flash.o
+ .text.FLASH_WaitForLastOpt
+                0x00000000       0x5a build/drivers/src/n32g031_flash.o
+ .debug_info    0x00000000      0x7cd build/drivers/src/n32g031_flash.o
+ .debug_abbrev  0x00000000      0x200 build/drivers/src/n32g031_flash.o
+ .debug_aranges
+                0x00000000       0xd8 build/drivers/src/n32g031_flash.o
+ .debug_rnglists
+                0x00000000       0xa5 build/drivers/src/n32g031_flash.o
+ .debug_line    0x00000000      0x807 build/drivers/src/n32g031_flash.o
+ .debug_str     0x00000000      0x5a4 build/drivers/src/n32g031_flash.o
+ .comment       0x00000000       0x3a build/drivers/src/n32g031_flash.o
+ .debug_frame   0x00000000      0x31c build/drivers/src/n32g031_flash.o
+ .ARM.attributes
+                0x00000000       0x2c build/drivers/src/n32g031_flash.o
+ .text          0x00000000        0x0 build/drivers/src/n32g031_gpio.o
+ .data          0x00000000        0x0 build/drivers/src/n32g031_gpio.o
+ .bss           0x00000000        0x0 build/drivers/src/n32g031_gpio.o
+ .text.GPIO_DeInit
+                0x00000000       0x88 build/drivers/src/n32g031_gpio.o
+ .text.GPIO_DeInitPin
+                0x00000000      0x1b4 build/drivers/src/n32g031_gpio.o
+ .text.GPIO_AFIOInitDefault
+                0x00000000       0x1a build/drivers/src/n32g031_gpio.o
+ .text.GPIO_ReadInputDataBit
+                0x00000000       0x40 build/drivers/src/n32g031_gpio.o
+ .text.GPIO_ReadInputData
+                0x00000000       0x16 build/drivers/src/n32g031_gpio.o
+ .text.GPIO_ReadOutputDataBit
+                0x00000000       0x40 build/drivers/src/n32g031_gpio.o
+ .text.GPIO_ReadOutputData
+                0x00000000       0x16 build/drivers/src/n32g031_gpio.o
+ .text.GPIO_WriteBit
+                0x00000000       0x3a build/drivers/src/n32g031_gpio.o
+ .text.GPIO_Write
+                0x00000000       0x1e build/drivers/src/n32g031_gpio.o
+ .text.GPIO_TogglePin
+                0x00000000       0x24 build/drivers/src/n32g031_gpio.o
+ .text.GPIO_ConfigPinLock
+                0x00000000       0x46 build/drivers/src/n32g031_gpio.o
+ .text.GPIO_ConfigEXTILine
+                0x00000000       0x8c build/drivers/src/n32g031_gpio.o
+ .text.GPIO_ConfigPinRemap
+                0x00000000       0xd8 build/drivers/src/n32g031_gpio.o
+ .text.AFIO_ConfigSPINSSMode
+                0x00000000       0x40 build/drivers/src/n32g031_gpio.o
+ .text.AFIO_ConfigADCExternalTrigRemap
+                0x00000000       0xbc build/drivers/src/n32g031_gpio.o
+ .text          0x00000000        0x0 build/drivers/src/n32g031_hdiv.o
+ .data          0x00000000        0x0 build/drivers/src/n32g031_hdiv.o
+ .bss           0x00000000        0x0 build/drivers/src/n32g031_hdiv.o
+ .text.HDIV_ConfigInt
+                0x00000000       0x4c build/drivers/src/n32g031_hdiv.o
+ .text.HDIV_ClrIntPendingBit
+                0x00000000       0x1c build/drivers/src/n32g031_hdiv.o
+ .text.HDIV_GetIntStatus
+                0x00000000       0x34 build/drivers/src/n32g031_hdiv.o
+ .text.HDIV_GetFlagStatus
+                0x00000000       0x60 build/drivers/src/n32g031_hdiv.o
+ .text.HDIV_SetDIVIDEND_Data
+                0x00000000       0x1c build/drivers/src/n32g031_hdiv.o
+ .text.HDIV_GetDIVIDEND_Data
+                0x00000000       0x14 build/drivers/src/n32g031_hdiv.o
+ .text.HDIV_SetDIVISOR_Data
+                0x00000000       0x1c build/drivers/src/n32g031_hdiv.o
+ .text.HDIV_GetDIVISOR_Data
+                0x00000000       0x14 build/drivers/src/n32g031_hdiv.o
+ .text.HDIV_GetQUOTIENT_Data
+                0x00000000       0x14 build/drivers/src/n32g031_hdiv.o
+ .text.HDIV_GetREMAINDER_Data
+                0x00000000       0x14 build/drivers/src/n32g031_hdiv.o
+ .text.HDIV_Start
+                0x00000000       0x4c build/drivers/src/n32g031_hdiv.o
+ .debug_info    0x00000000      0x2a9 build/drivers/src/n32g031_hdiv.o
+ .debug_abbrev  0x00000000      0x15a build/drivers/src/n32g031_hdiv.o
+ .debug_aranges
+                0x00000000       0x70 build/drivers/src/n32g031_hdiv.o
+ .debug_rnglists
+                0x00000000       0x4f build/drivers/src/n32g031_hdiv.o
+ .debug_line    0x00000000      0x2a4 build/drivers/src/n32g031_hdiv.o
+ .debug_str     0x00000000      0x2c3 build/drivers/src/n32g031_hdiv.o
+ .comment       0x00000000       0x3a build/drivers/src/n32g031_hdiv.o
+ .debug_frame   0x00000000      0x15c build/drivers/src/n32g031_hdiv.o
+ .ARM.attributes
+                0x00000000       0x2c build/drivers/src/n32g031_hdiv.o
+ .text          0x00000000        0x0 build/drivers/src/n32g031_i2c.o
+ .data          0x00000000        0x0 build/drivers/src/n32g031_i2c.o
+ .bss           0x00000000        0x0 build/drivers/src/n32g031_i2c.o
+ .text.I2C_DeInit
+                0x00000000       0x50 build/drivers/src/n32g031_i2c.o
+ .text.I2C_Init
+                0x00000000      0x298 build/drivers/src/n32g031_i2c.o
+ .text.I2C_InitStruct
+                0x00000000       0x40 build/drivers/src/n32g031_i2c.o
+ .text.I2C_Enable
+                0x00000000       0x40 build/drivers/src/n32g031_i2c.o
+ .text.I2C_EnableDMA
+                0x00000000       0x48 build/drivers/src/n32g031_i2c.o
+ .text.I2C_EnableDmaLastSend
+                0x00000000       0x48 build/drivers/src/n32g031_i2c.o
+ .text.I2C_GenerateStart
+                0x00000000       0x48 build/drivers/src/n32g031_i2c.o
+ .text.I2C_GenerateStop
+                0x00000000       0x48 build/drivers/src/n32g031_i2c.o
+ .text.I2C_ConfigAck
+                0x00000000       0x48 build/drivers/src/n32g031_i2c.o
+ .text.I2C_ConfigOwnAddr2
+                0x00000000       0x54 build/drivers/src/n32g031_i2c.o
+ .text.I2C_EnableDualAddr
+                0x00000000       0x40 build/drivers/src/n32g031_i2c.o
+ .text.I2C_EnableGeneralCall
+                0x00000000       0x40 build/drivers/src/n32g031_i2c.o
+ .text.I2C_ConfigInt
+                0x00000000       0x52 build/drivers/src/n32g031_i2c.o
+ .text.I2C_SendData
+                0x00000000       0x20 build/drivers/src/n32g031_i2c.o
+ .text.I2C_RecvData
+                0x00000000       0x18 build/drivers/src/n32g031_i2c.o
+ .text.I2C_SendAddr7bit
+                0x00000000       0x4c build/drivers/src/n32g031_i2c.o
+ .text.I2C_GetRegister
+                0x00000000       0x2e build/drivers/src/n32g031_i2c.o
+ .text.I2C_EnableSoftwareReset
+                0x00000000       0x44 build/drivers/src/n32g031_i2c.o
+ .text.I2C_ConfigNackLocation
+                0x00000000       0x4c build/drivers/src/n32g031_i2c.o
+ .text.I2C_ConfigSmbusAlert
+                0x00000000       0x4c build/drivers/src/n32g031_i2c.o
+ .text.I2C_SendPEC
+                0x00000000       0x48 build/drivers/src/n32g031_i2c.o
+ .text.I2C_ConfigPecLocation
+                0x00000000       0x4c build/drivers/src/n32g031_i2c.o
+ .text.I2C_ComputePec
+                0x00000000       0x40 build/drivers/src/n32g031_i2c.o
+ .text.I2C_GetPec
+                0x00000000       0x1c build/drivers/src/n32g031_i2c.o
+ .text.I2C_EnableArp
+                0x00000000       0x40 build/drivers/src/n32g031_i2c.o
+ .text.I2C_EnableExtendClk
+                0x00000000       0x40 build/drivers/src/n32g031_i2c.o
+ .text.I2C_ConfigFastModeDutyCycle
+                0x00000000       0x38 build/drivers/src/n32g031_i2c.o
+ .text.I2C_CheckEvent
+                0x00000000       0x6a build/drivers/src/n32g031_i2c.o
+ .text.I2C_GetLastEvent
+                0x00000000       0x40 build/drivers/src/n32g031_i2c.o
+ .text.I2C_GetFlag
+                0x00000000       0x70 build/drivers/src/n32g031_i2c.o
+ .text.I2C_ClrFlag
+                0x00000000       0x34 build/drivers/src/n32g031_i2c.o
+ .text.I2C_GetIntStatus
+                0x00000000       0x64 build/drivers/src/n32g031_i2c.o
+ .text.I2C_ClrIntPendingBit
+                0x00000000       0x34 build/drivers/src/n32g031_i2c.o
+ .debug_info    0x00000000      0xb1a build/drivers/src/n32g031_i2c.o
+ .debug_abbrev  0x00000000      0x1cc build/drivers/src/n32g031_i2c.o
+ .debug_aranges
+                0x00000000      0x120 build/drivers/src/n32g031_i2c.o
+ .debug_rnglists
+                0x00000000       0xd4 build/drivers/src/n32g031_i2c.o
+ .debug_line    0x00000000      0x73b build/drivers/src/n32g031_i2c.o
+ .debug_str     0x00000000      0x640 build/drivers/src/n32g031_i2c.o
+ .comment       0x00000000       0x3a build/drivers/src/n32g031_i2c.o
+ .debug_frame   0x00000000      0x434 build/drivers/src/n32g031_i2c.o
+ .ARM.attributes
+                0x00000000       0x2c build/drivers/src/n32g031_i2c.o
+ .text          0x00000000        0x0 build/drivers/src/n32g031_iwdg.o
+ .data          0x00000000        0x0 build/drivers/src/n32g031_iwdg.o
+ .bss           0x00000000        0x0 build/drivers/src/n32g031_iwdg.o
+ .text.IWDG_WriteConfig
+                0x00000000       0x20 build/drivers/src/n32g031_iwdg.o
+ .text.IWDG_SetPrescalerDiv
+                0x00000000       0x20 build/drivers/src/n32g031_iwdg.o
+ .text.IWDG_CntReload
+                0x00000000       0x20 build/drivers/src/n32g031_iwdg.o
+ .text.IWDG_ReloadKey
+                0x00000000       0x18 build/drivers/src/n32g031_iwdg.o
+ .text.IWDG_Enable
+                0x00000000       0x18 build/drivers/src/n32g031_iwdg.o
+ .text.IWDG_GetStatus
+                0x00000000       0x44 build/drivers/src/n32g031_iwdg.o
+ .debug_info    0x00000000      0x1ef build/drivers/src/n32g031_iwdg.o
+ .debug_abbrev  0x00000000      0x13a build/drivers/src/n32g031_iwdg.o
+ .debug_aranges
+                0x00000000       0x48 build/drivers/src/n32g031_iwdg.o
+ .debug_rnglists
+                0x00000000       0x31 build/drivers/src/n32g031_iwdg.o
+ .debug_line    0x00000000      0x1d0 build/drivers/src/n32g031_iwdg.o
+ .debug_str     0x00000000      0x23b build/drivers/src/n32g031_iwdg.o
+ .comment       0x00000000       0x3a build/drivers/src/n32g031_iwdg.o
+ .debug_frame   0x00000000       0xc8 build/drivers/src/n32g031_iwdg.o
+ .ARM.attributes
+                0x00000000       0x2c build/drivers/src/n32g031_iwdg.o
+ .text          0x00000000        0x0 build/drivers/src/n32g031_lptim.o
+ .data          0x00000000        0x0 build/drivers/src/n32g031_lptim.o
+ .bss           0x00000000        0x0 build/drivers/src/n32g031_lptim.o
+ .text.RCC_GetLPTIMClockSource
+                0x00000000       0x1c build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_DeInit
+                0x00000000       0x2c build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_StructInit
+                0x00000000       0x28 build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_Init
+                0x00000000       0x60 build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_Disable
+                0x00000000       0x20 build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_Enable
+                0x00000000       0x20 build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_IsEnabled
+                0x00000000       0x26 build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_StartCounter
+                0x00000000       0x2a build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_SetUpdateMode
+                0x00000000       0x28 build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_GetUpdateMode
+                0x00000000       0x1a build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_SetAutoReload
+                0x00000000       0x1e build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_GetAutoReload
+                0x00000000       0x16 build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_SetCompare
+                0x00000000       0x1e build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_GetCompare
+                0x00000000       0x16 build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_GetCounter
+                0x00000000       0x16 build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_SetCounterMode
+                0x00000000       0x28 build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_GetCounterMode
+                0x00000000       0x1a build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_ConfigOutput
+                0x00000000       0x2c build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_SetWaveform
+                0x00000000       0x28 build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_GetWaveform
+                0x00000000       0x1a build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_SetPolarity
+                0x00000000       0x28 build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_GetPolarity
+                0x00000000       0x1a build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_SetPrescaler
+                0x00000000       0x28 build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_GetPrescaler
+                0x00000000       0x1a build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_EnableTimeout
+                0x00000000       0x1e build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_DisableTimeout
+                0x00000000       0x20 build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_IsEnabledTimeout
+                0x00000000       0x28 build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_TrigSw
+                0x00000000       0x20 build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_ConfigTrigger
+                0x00000000       0x34 build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_GetTriggerSource
+                0x00000000       0x1a build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_GetTriggerFilter
+                0x00000000       0x18 build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_GetTriggerPolarity
+                0x00000000       0x1a build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_SetClockSource
+                0x00000000       0x24 build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_GetClockSource
+                0x00000000       0x18 build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_ConfigClock
+                0x00000000       0x2a build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_GetClockPolarity
+                0x00000000       0x18 build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_GetClockFilter
+                0x00000000       0x18 build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_SetEncoderMode
+                0x00000000       0x24 build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_GetEncoderMode
+                0x00000000       0x18 build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_EnableEncoderMode
+                0x00000000       0x1e build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_EnableNoEncoderMode
+                0x00000000       0x1e build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_DisableEncoderMode
+                0x00000000       0x20 build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_DisableNoEncoderMode
+                0x00000000       0x20 build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_IsEnabledEncoderMode
+                0x00000000       0x28 build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_ClearFLAG_CMPM
+                0x00000000       0x20 build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_IsActiveFlag_CMPM
+                0x00000000       0x26 build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_ClearFLAG_ARRM
+                0x00000000       0x20 build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_IsActiveFlag_ARRM
+                0x00000000       0x26 build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_ClearFlag_EXTTRIG
+                0x00000000       0x20 build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_IsActiveFlag_EXTTRIG
+                0x00000000       0x26 build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_ClearFlag_CMPOK
+                0x00000000       0x20 build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_IsActiveFlag_CMPOK
+                0x00000000       0x26 build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_ClearFlag_ARROK
+                0x00000000       0x20 build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_IsActiveFlag_ARROK
+                0x00000000       0x26 build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_ClearFlag_UP
+                0x00000000       0x20 build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_IsActiveFlag_UP
+                0x00000000       0x26 build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_ClearFlag_DOWN
+                0x00000000       0x20 build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_IsActiveFlag_DOWN
+                0x00000000       0x26 build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_EnableIT_CMPM
+                0x00000000       0x20 build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_DisableIT_CMPM
+                0x00000000       0x20 build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_IsEnabledIT_CMPM
+                0x00000000       0x26 build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_EnableIT_ARRM
+                0x00000000       0x20 build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_DisableIT_ARRM
+                0x00000000       0x20 build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_IsEnabledIT_ARRM
+                0x00000000       0x26 build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_EnableIT_EXTTRIG
+                0x00000000       0x20 build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_DisableIT_EXTTRIG
+                0x00000000       0x20 build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_IsEnabledIT_EXTTRIG
+                0x00000000       0x26 build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_EnableIT_CMPOK
+                0x00000000       0x20 build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_DisableIT_CMPOK
+                0x00000000       0x20 build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_IsEnabledIT_CMPOK
+                0x00000000       0x26 build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_EnableIT_ARROK
+                0x00000000       0x20 build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_DisableIT_ARROK
+                0x00000000       0x20 build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_IsEnabledIT_ARROK
+                0x00000000       0x26 build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_EnableIT_UP
+                0x00000000       0x20 build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_DisableIT_UP
+                0x00000000       0x20 build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_IsEnabledIT_UP
+                0x00000000       0x26 build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_EnableIT_DOWN
+                0x00000000       0x20 build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_DisableIT_DOWN
+                0x00000000       0x20 build/drivers/src/n32g031_lptim.o
+ .text.LPTIM_IsEnabledIT_DOWN
+                0x00000000       0x26 build/drivers/src/n32g031_lptim.o
+ .debug_info    0x00000000      0xff6 build/drivers/src/n32g031_lptim.o
+ .debug_abbrev  0x00000000      0x1f3 build/drivers/src/n32g031_lptim.o
+ .debug_aranges
+                0x00000000      0x290 build/drivers/src/n32g031_lptim.o
+ .debug_rnglists
+                0x00000000      0x1e7 build/drivers/src/n32g031_lptim.o
+ .debug_line    0x00000000      0xa02 build/drivers/src/n32g031_lptim.o
+ .debug_str     0x00000000      0x9c7 build/drivers/src/n32g031_lptim.o
+ .comment       0x00000000       0x3a build/drivers/src/n32g031_lptim.o
+ .debug_frame   0x00000000      0x9f0 build/drivers/src/n32g031_lptim.o
+ .ARM.attributes
+                0x00000000       0x2c build/drivers/src/n32g031_lptim.o
+ .text          0x00000000        0x0 build/drivers/src/n32g031_lpuart.o
+ .data          0x00000000        0x0 build/drivers/src/n32g031_lpuart.o
+ .bss           0x00000000        0x0 build/drivers/src/n32g031_lpuart.o
+ .text.LPUART_DeInit
+                0x00000000       0x22 build/drivers/src/n32g031_lpuart.o
+ .text.LPUART_Init
+                0x00000000      0x190 build/drivers/src/n32g031_lpuart.o
+ .text.LPUART_StructInit
+                0x00000000       0x32 build/drivers/src/n32g031_lpuart.o
+ .text.LPUART_FlushRxFifo
+                0x00000000       0x40 build/drivers/src/n32g031_lpuart.o
+ .text.LPUART_ConfigInt
+                0x00000000       0x54 build/drivers/src/n32g031_lpuart.o
+ .text.LPUART_EnableDMA
+                0x00000000       0x50 build/drivers/src/n32g031_lpuart.o
+ .text.LPUART_ConfigWakeUpMethod
+                0x00000000       0x40 build/drivers/src/n32g031_lpuart.o
+ .text.LPUART_EnableWakeUpStop
+                0x00000000       0x48 build/drivers/src/n32g031_lpuart.o
+ .text.LPUART_ConfigSamplingMethod
+                0x00000000       0x3c build/drivers/src/n32g031_lpuart.o
+ .text.LPUART_EnableLoopBack
+                0x00000000       0x44 build/drivers/src/n32g031_lpuart.o
+ .text.LPUART_SendData
+                0x00000000       0x20 build/drivers/src/n32g031_lpuart.o
+ .text.LPUART_ReceiveData
+                0x00000000       0x14 build/drivers/src/n32g031_lpuart.o
+ .text.LPUART_ConfigWakeUpData
+                0x00000000       0x1c build/drivers/src/n32g031_lpuart.o
+ .text.LPUART_GetFlagStatus
+                0x00000000       0x48 build/drivers/src/n32g031_lpuart.o
+ .text.LPUART_ClrFlag
+                0x00000000       0x20 build/drivers/src/n32g031_lpuart.o
+ .text.LPUART_GetIntStatus
+                0x00000000       0xa0 build/drivers/src/n32g031_lpuart.o
+ .text.LPUART_ClrIntPendingBit
+                0x00000000       0x4c build/drivers/src/n32g031_lpuart.o
+ .debug_info    0x00000000      0x62d build/drivers/src/n32g031_lpuart.o
+ .debug_abbrev  0x00000000      0x21a build/drivers/src/n32g031_lpuart.o
+ .debug_aranges
+                0x00000000       0xa0 build/drivers/src/n32g031_lpuart.o
+ .debug_rnglists
+                0x00000000       0x75 build/drivers/src/n32g031_lpuart.o
+ .debug_line    0x00000000      0x492 build/drivers/src/n32g031_lpuart.o
+ .debug_str     0x00000000      0x55e build/drivers/src/n32g031_lpuart.o
+ .comment       0x00000000       0x3a build/drivers/src/n32g031_lpuart.o
+ .debug_frame   0x00000000      0x224 build/drivers/src/n32g031_lpuart.o
+ .ARM.attributes
+                0x00000000       0x2c build/drivers/src/n32g031_lpuart.o
+ .text          0x00000000        0x0 build/drivers/src/n32g031_opamp.o
+ .data          0x00000000        0x0 build/drivers/src/n32g031_opamp.o
+ .bss           0x00000000        0x0 build/drivers/src/n32g031_opamp.o
+ .text.OPAMP_DeInit
+                0x00000000        0xa build/drivers/src/n32g031_opamp.o
+ .text.OPAMP_StructInit
+                0x00000000       0x22 build/drivers/src/n32g031_opamp.o
+ .text.OPAMP_Init
+                0x00000000       0x60 build/drivers/src/n32g031_opamp.o
+ .text.OPAMP_Enable
+                0x00000000       0x40 build/drivers/src/n32g031_opamp.o
+ .text.OPAMP_SetPgaGain
+                0x00000000       0x38 build/drivers/src/n32g031_opamp.o
+ .text.OPAMP_SetVpSecondSel
+                0x00000000       0x34 build/drivers/src/n32g031_opamp.o
+ .text.OPAMP_SetVmSecondSel
+                0x00000000       0x3c build/drivers/src/n32g031_opamp.o
+ .text.OPAMP_SetVpSel
+                0x00000000       0x3c build/drivers/src/n32g031_opamp.o
+ .text.OPAMP_SetVmSel
+                0x00000000       0x3c build/drivers/src/n32g031_opamp.o
+ .text.OPAMP_SetLock
+                0x00000000       0x1c build/drivers/src/n32g031_opamp.o
+ .debug_info    0x00000000      0x492 build/drivers/src/n32g031_opamp.o
+ .debug_abbrev  0x00000000      0x117 build/drivers/src/n32g031_opamp.o
+ .debug_aranges
+                0x00000000       0x68 build/drivers/src/n32g031_opamp.o
+ .debug_rnglists
+                0x00000000       0x49 build/drivers/src/n32g031_opamp.o
+ .debug_line    0x00000000      0x28a build/drivers/src/n32g031_opamp.o
+ .debug_str     0x00000000      0x518 build/drivers/src/n32g031_opamp.o
+ .comment       0x00000000       0x3a build/drivers/src/n32g031_opamp.o
+ .debug_frame   0x00000000      0x14c build/drivers/src/n32g031_opamp.o
+ .ARM.attributes
+                0x00000000       0x2c build/drivers/src/n32g031_opamp.o
+ .text          0x00000000        0x0 build/drivers/src/n32g031_pwr.o
+ .data          0x00000000        0x0 build/drivers/src/n32g031_pwr.o
+ .bss           0x00000000        0x0 build/drivers/src/n32g031_pwr.o
+ .text.PWR_DeInit
+                0x00000000       0x22 build/drivers/src/n32g031_pwr.o
+ .text.PWR_PvdEnable
+                0x00000000       0x3c build/drivers/src/n32g031_pwr.o
+ .text.PWR_PVDLevelConfig
+                0x00000000       0x40 build/drivers/src/n32g031_pwr.o
+ .text.PWR_WakeUpPinEnable
+                0x00000000       0x5c build/drivers/src/n32g031_pwr.o
+ .text.PWR_WakeUpPinPolarity
+                0x00000000       0x40 build/drivers/src/n32g031_pwr.o
+ .text.PWR_EnterSLEEPMode
+                0x00000000       0x6c build/drivers/src/n32g031_pwr.o
+ .text.PWR_EnterSTOPMode
+                0x00000000       0x6c build/drivers/src/n32g031_pwr.o
+ .text.PWR_EnterLowPowerRunMode
+                0x00000000       0x8c build/drivers/src/n32g031_pwr.o
+ .text.PWR_ExitLowPowerRunMode
+                0x00000000       0x24 build/drivers/src/n32g031_pwr.o
+ .text.PWR_EnterPDMode
+                0x00000000       0x68 build/drivers/src/n32g031_pwr.o
+ .text.PWR_GetFlagStatus
+                0x00000000       0x3c build/drivers/src/n32g031_pwr.o
+ .text.PWR_ClearFlag
+                0x00000000       0x20 build/drivers/src/n32g031_pwr.o
+ .text.DBG_ConfigPeriph
+                0x00000000       0x40 build/drivers/src/n32g031_pwr.o
+ .debug_info    0x00000000      0x5f8 build/drivers/src/n32g031_pwr.o
+ .debug_abbrev  0x00000000      0x244 build/drivers/src/n32g031_pwr.o
+ .debug_aranges
+                0x00000000       0x80 build/drivers/src/n32g031_pwr.o
+ .debug_rnglists
+                0x00000000       0x5c build/drivers/src/n32g031_pwr.o
+ .debug_line    0x00000000      0x416 build/drivers/src/n32g031_pwr.o
+ .debug_str     0x00000000      0x41d build/drivers/src/n32g031_pwr.o
+ .comment       0x00000000       0x3a build/drivers/src/n32g031_pwr.o
+ .debug_frame   0x00000000      0x1a8 build/drivers/src/n32g031_pwr.o
+ .ARM.attributes
+                0x00000000       0x2c build/drivers/src/n32g031_pwr.o
+ .text          0x00000000        0x0 build/drivers/src/n32g031_rcc.o
+ .data          0x00000000        0x0 build/drivers/src/n32g031_rcc.o
+ .bss           0x00000000        0x0 build/drivers/src/n32g031_rcc.o
+ .rodata.s_ApbAhbPresTable
+                0x00000000       0x10 build/drivers/src/n32g031_rcc.o
+ .rodata.s_AdcHclkPresTable
+                0x00000000       0x10 build/drivers/src/n32g031_rcc.o
+ .rodata.s_AdcPllClkPresTable
+                0x00000000       0x20 build/drivers/src/n32g031_rcc.o
+ .text.RCC_DeInit
+                0x00000000       0x6c build/drivers/src/n32g031_rcc.o
+ .text.RCC_ConfigHse
+                0x00000000       0x6c build/drivers/src/n32g031_rcc.o
+ .text.RCC_WaitHseStable
+                0x00000000       0x5e build/drivers/src/n32g031_rcc.o
+ .text.RCC_ConfigHsi
+                0x00000000       0x38 build/drivers/src/n32g031_rcc.o
+ .text.RCC_WaitHsiStable
+                0x00000000       0x5e build/drivers/src/n32g031_rcc.o
+ .text.RCC_SetHsiCalibValue
+                0x00000000       0x3c build/drivers/src/n32g031_rcc.o
+ .text.RCC_EnableHsi
+                0x00000000       0x3c build/drivers/src/n32g031_rcc.o
+ .text.RCC_ConfigPll
+                0x00000000       0x90 build/drivers/src/n32g031_rcc.o
+ .text.RCC_EnablePll
+                0x00000000       0x40 build/drivers/src/n32g031_rcc.o
+ .text.RCC_EnablePllClockOut
+                0x00000000       0x40 build/drivers/src/n32g031_rcc.o
+ .text.RCC_ConfigSysclk
+                0x00000000       0x34 build/drivers/src/n32g031_rcc.o
+ .text.RCC_GetSysclkSrc
+                0x00000000       0x1c build/drivers/src/n32g031_rcc.o
+ .text.RCC_ConfigHclk
+                0x00000000       0x34 build/drivers/src/n32g031_rcc.o
+ .text.RCC_ConfigPclk1
+                0x00000000       0x38 build/drivers/src/n32g031_rcc.o
+ .text.RCC_ConfigPclk2
+                0x00000000       0x3c build/drivers/src/n32g031_rcc.o
+ .text.RCC_ConfigInt
+                0x00000000       0x4c build/drivers/src/n32g031_rcc.o
+ .text.RCC_ConfigTim18Clk
+                0x00000000       0x34 build/drivers/src/n32g031_rcc.o
+ .text.RCC_ConfigAdc1mClk
+                0x00000000       0x50 build/drivers/src/n32g031_rcc.o
+ .text.RCC_ConfigAdcPllClk
+                0x00000000       0x54 build/drivers/src/n32g031_rcc.o
+ .text.RCC_ConfigAdcHclk
+                0x00000000       0x34 build/drivers/src/n32g031_rcc.o
+ .text.RCC_ConfigLPTIMClk
+                0x00000000       0x30 build/drivers/src/n32g031_rcc.o
+ .text.RCC_GetLPTIMClkSrc
+                0x00000000       0x18 build/drivers/src/n32g031_rcc.o
+ .text.RCC_ConfigLPUARTClk
+                0x00000000       0x34 build/drivers/src/n32g031_rcc.o
+ .text.RCC_GetLPUARTClkSrc
+                0x00000000       0x18 build/drivers/src/n32g031_rcc.o
+ .text.RCC_LSE_Trim_Config
+                0x00000000       0x5c build/drivers/src/n32g031_rcc.o
+ .text.RCC_ConfigLse
+                0x00000000       0x60 build/drivers/src/n32g031_rcc.o
+ .text.RCC_EnableLsi
+                0x00000000       0x3c build/drivers/src/n32g031_rcc.o
+ .text.RCC_ConfigRtcClk
+                0x00000000       0x2c build/drivers/src/n32g031_rcc.o
+ .text.RCC_GetRTCClkSrc
+                0x00000000       0x18 build/drivers/src/n32g031_rcc.o
+ .text.RCC_EnableRtcClk
+                0x00000000       0x3c build/drivers/src/n32g031_rcc.o
+ .text.RCC_EnableRTCReset
+                0x00000000       0x40 build/drivers/src/n32g031_rcc.o
+ .text.RCC_ConfigLPRUNClk
+                0x00000000       0x30 build/drivers/src/n32g031_rcc.o
+ .text.RCC_GetLPRUNClkSrc
+                0x00000000       0x18 build/drivers/src/n32g031_rcc.o
+ .text.RCC_GetClocksFreqValue
+                0x00000000      0x238 build/drivers/src/n32g031_rcc.o
+ .text.RCC_EnableAHBPeriphClk
+                0x00000000       0x40 build/drivers/src/n32g031_rcc.o
+ .text.RCC_EnableAPB1PeriphClk
+                0x00000000       0x40 build/drivers/src/n32g031_rcc.o
+ .text.RCC_EnableAHBPeriphReset
+                0x00000000       0x40 build/drivers/src/n32g031_rcc.o
+ .text.RCC_EnableAPB2PeriphReset
+                0x00000000       0x40 build/drivers/src/n32g031_rcc.o
+ .text.RCC_EnableAPB1PeriphReset
+                0x00000000       0x40 build/drivers/src/n32g031_rcc.o
+ .text.RCC_EnableClockSecuritySystem
+                0x00000000       0x40 build/drivers/src/n32g031_rcc.o
+ .text.RCC_ConfigMcoClkPre
+                0x00000000       0x34 build/drivers/src/n32g031_rcc.o
+ .text.RCC_ConfigMco
+                0x00000000       0x40 build/drivers/src/n32g031_rcc.o
+ .text.RCC_GetFlagStatus
+                0x00000000       0x84 build/drivers/src/n32g031_rcc.o
+ .text.RCC_ClrFlag
+                0x00000000       0x28 build/drivers/src/n32g031_rcc.o
+ .text.RCC_GetIntStatus
+                0x00000000       0x44 build/drivers/src/n32g031_rcc.o
+ .text.RCC_ClrIntPendingBit
+                0x00000000       0x20 build/drivers/src/n32g031_rcc.o
+ .text.RCC_EnableRAMCParityErrorReset
+                0x00000000       0x40 build/drivers/src/n32g031_rcc.o
+ .text          0x00000000        0x0 build/drivers/src/n32g031_rtc.o
+ .data          0x00000000        0x0 build/drivers/src/n32g031_rtc.o
+ .bss           0x00000000        0x0 build/drivers/src/n32g031_rtc.o
+ .text.NVIC_SetPriority
+                0x00000000       0xdc build/drivers/src/n32g031_rtc.o
+ .bss.RTC_Delay_Flag
+                0x00000000        0x4 build/drivers/src/n32g031_rtc.o
+ .text.RTC_DeInit
+                0x00000000       0xfc build/drivers/src/n32g031_rtc.o
+ .text.RTC_StructInit
+                0x00000000       0x22 build/drivers/src/n32g031_rtc.o
+ .text.RTC_EnableWriteProtection
+                0x00000000       0x34 build/drivers/src/n32g031_rtc.o
+ .text.RTC_EnterInitMode
+                0x00000000       0x88 build/drivers/src/n32g031_rtc.o
+ .text.RTC_ExitInitMode
+                0x00000000       0x1c build/drivers/src/n32g031_rtc.o
+ .text.delay_ms
+                0x00000000       0x50 build/drivers/src/n32g031_rtc.o
+ .text.RTC_WaitForSynchro
+                0x00000000       0x8c build/drivers/src/n32g031_rtc.o
+ .text.RTC_EnableRefClock
+                0x00000000       0x78 build/drivers/src/n32g031_rtc.o
+ .text.RTC_EnableBypassShadow
+                0x00000000       0x4c build/drivers/src/n32g031_rtc.o
+ .text.RTC_ConfigCalendar
+                0x00000000      0x2b8 build/drivers/src/n32g031_rtc.o
+ .text.RTC_TimeStructInit
+                0x00000000       0x28 build/drivers/src/n32g031_rtc.o
+ .text.RTC_GetTime
+                0x00000000       0xa8 build/drivers/src/n32g031_rtc.o
+ .text.RTC_GetSubSecond
+                0x00000000       0x24 build/drivers/src/n32g031_rtc.o
+ .text.RTC_DateStructInit
+                0x00000000       0x28 build/drivers/src/n32g031_rtc.o
+ .text.RTC_GetDate
+                0x00000000       0x9c build/drivers/src/n32g031_rtc.o
+ .text.RTC_SetAlarm
+                0x00000000      0x138 build/drivers/src/n32g031_rtc.o
+ .text.RTC_AlarmStructInit
+                0x00000000       0x3a build/drivers/src/n32g031_rtc.o
+ .text.RTC_GetAlarm
+                0x00000000       0xec build/drivers/src/n32g031_rtc.o
+ .text.RTC_EnableAlarm
+                0x00000000       0xac build/drivers/src/n32g031_rtc.o
+ .text.RTC_ConfigAlarmSubSecond
+                0x00000000       0x50 build/drivers/src/n32g031_rtc.o
+ .text.RTC_GetAlarmSubSecond
+                0x00000000       0x3c build/drivers/src/n32g031_rtc.o
+ .text.RTC_ConfigWakeUpClock
+                0x00000000       0x40 build/drivers/src/n32g031_rtc.o
+ .text.RTC_SetWakeUpCounter
+                0x00000000       0x2c build/drivers/src/n32g031_rtc.o
+ .text.RTC_GetWakeUpCounter
+                0x00000000       0x18 build/drivers/src/n32g031_rtc.o
+ .text.RTC_EnableWakeUp
+                0x00000000       0xac build/drivers/src/n32g031_rtc.o
+ .text.RTC_ConfigDayLightSaving
+                0x00000000       0x50 build/drivers/src/n32g031_rtc.o
+ .text.RTC_GetStoreOperation
+                0x00000000       0x18 build/drivers/src/n32g031_rtc.o
+ .text.Delay    0x00000000       0x20 build/drivers/src/n32g031_rtc.o
+ .text.RTC_ConfigOutput
+                0x00000000       0x58 build/drivers/src/n32g031_rtc.o
+ .text.RTC_EnableCalibOutput
+                0x00000000       0x54 build/drivers/src/n32g031_rtc.o
+ .text.RTC_ConfigCalibOutput
+                0x00000000       0x44 build/drivers/src/n32g031_rtc.o
+ .text.RTC_ConfigSmoothCalib
+                0x00000000       0x94 build/drivers/src/n32g031_rtc.o
+ .text.RTC_EnableTimeStamp
+                0x00000000       0x64 build/drivers/src/n32g031_rtc.o
+ .text.RTC_GetTimeStamp
+                0x00000000      0x124 build/drivers/src/n32g031_rtc.o
+ .text.RTC_GetTimeStampSubSecond
+                0x00000000       0x14 build/drivers/src/n32g031_rtc.o
+ .text.RTC_ConfigSynchroShift
+                0x00000000       0xac build/drivers/src/n32g031_rtc.o
+ .text.RTC_ConfigInt
+                0x00000000       0x5c build/drivers/src/n32g031_rtc.o
+ .text.RTC_GetFlagStatus
+                0x00000000       0x4c build/drivers/src/n32g031_rtc.o
+ .text.RTC_ClrFlag
+                0x00000000       0x3c build/drivers/src/n32g031_rtc.o
+ .text.RTC_GetITStatus
+                0x00000000       0x98 build/drivers/src/n32g031_rtc.o
+ .text.RTC_ClrIntPendingBit
+                0x00000000       0x40 build/drivers/src/n32g031_rtc.o
+ .text.RTC_ByteToBcd2
+                0x00000000       0x4e build/drivers/src/n32g031_rtc.o
+ .text.RTC_Bcd2ToByte
+                0x00000000       0x42 build/drivers/src/n32g031_rtc.o
+ .text.RTC_TamperTriggerConfig
+                0x00000000       0x48 build/drivers/src/n32g031_rtc.o
+ .text.RTC_TamperCmd
+                0x00000000       0x40 build/drivers/src/n32g031_rtc.o
+ .text.RTC_TamperFilterConfig
+                0x00000000       0x30 build/drivers/src/n32g031_rtc.o
+ .text.RTC_TamperSamplingFreqConfig
+                0x00000000       0x30 build/drivers/src/n32g031_rtc.o
+ .text.RTC_TamperPinsPrechargeDuration
+                0x00000000       0x30 build/drivers/src/n32g031_rtc.o
+ .text.RTC_TimeStampOnTamperDetectionCmd
+                0x00000000       0x3c build/drivers/src/n32g031_rtc.o
+ .text.RTC_TamperPullUpCmd
+                0x00000000       0x40 build/drivers/src/n32g031_rtc.o
+ .text.RTC_TamperTAMPTSCmd
+                0x00000000       0x3c build/drivers/src/n32g031_rtc.o
+ .text.RTC_TamperIECmd
+                0x00000000       0x40 build/drivers/src/n32g031_rtc.o
+ .data.first_init_flag.0
+                0x00000000        0x4 build/drivers/src/n32g031_rtc.o
+ .debug_info    0x00000000     0x138a build/drivers/src/n32g031_rtc.o
+ .debug_abbrev  0x00000000      0x35c build/drivers/src/n32g031_rtc.o
+ .debug_aranges
+                0x00000000      0x1c0 build/drivers/src/n32g031_rtc.o
+ .debug_rnglists
+                0x00000000      0x15a build/drivers/src/n32g031_rtc.o
+ .debug_line    0x00000000     0x1175 build/drivers/src/n32g031_rtc.o
+ .debug_str     0x00000000      0xdc3 build/drivers/src/n32g031_rtc.o
+ .comment       0x00000000       0x3a build/drivers/src/n32g031_rtc.o
+ .debug_frame   0x00000000      0x6a0 build/drivers/src/n32g031_rtc.o
+ .ARM.attributes
+                0x00000000       0x2c build/drivers/src/n32g031_rtc.o
+ .text          0x00000000        0x0 build/drivers/src/n32g031_spi.o
+ .data          0x00000000        0x0 build/drivers/src/n32g031_spi.o
+ .bss           0x00000000        0x0 build/drivers/src/n32g031_spi.o
+ .text.SPI_I2S_DeInit
+                0x00000000       0x5c build/drivers/src/n32g031_spi.o
+ .text.SPI_Init
+                0x00000000       0x9c build/drivers/src/n32g031_spi.o
+ .text.I2S_Init
+                0x00000000      0x1b0 build/drivers/src/n32g031_spi.o
+ .text.SPI_InitStruct
+                0x00000000       0x46 build/drivers/src/n32g031_spi.o
+ .text.I2S_InitStruct
+                0x00000000       0x34 build/drivers/src/n32g031_spi.o
+ .text.SPI_Enable
+                0x00000000       0x40 build/drivers/src/n32g031_spi.o
+ .text.I2S_Enable
+                0x00000000       0x48 build/drivers/src/n32g031_spi.o
+ .text.SPI_I2S_EnableInt
+                0x00000000       0x7c build/drivers/src/n32g031_spi.o
+ .text.SPI_I2S_EnableDma
+                0x00000000       0x52 build/drivers/src/n32g031_spi.o
+ .text.SPI_I2S_TransmitData
+                0x00000000       0x1e build/drivers/src/n32g031_spi.o
+ .text.SPI_I2S_ReceiveData
+                0x00000000       0x16 build/drivers/src/n32g031_spi.o
+ .text.SPI_SetNssLevel
+                0x00000000       0x4c build/drivers/src/n32g031_spi.o
+ .text.SPI_SSOutputEnable
+                0x00000000       0x40 build/drivers/src/n32g031_spi.o
+ .text.SPI_ConfigDataLen
+                0x00000000       0x3c build/drivers/src/n32g031_spi.o
+ .text.SPI_TransmitCrcNext
+                0x00000000       0x22 build/drivers/src/n32g031_spi.o
+ .text.SPI_EnableCalculateCrc
+                0x00000000       0x48 build/drivers/src/n32g031_spi.o
+ .text.SPI_GetCRCDat
+                0x00000000       0x40 build/drivers/src/n32g031_spi.o
+ .text.SPI_GetCRCPoly
+                0x00000000       0x16 build/drivers/src/n32g031_spi.o
+ .text.SPI_ConfigBidirectionalMode
+                0x00000000       0x4c build/drivers/src/n32g031_spi.o
+ .text.SPI_I2S_GetStatus
+                0x00000000       0x46 build/drivers/src/n32g031_spi.o
+ .text.SPI_I2S_ClrCRCErrFlag
+                0x00000000       0x28 build/drivers/src/n32g031_spi.o
+ .text.SPI_I2S_GetIntStatus
+                0x00000000       0x9e build/drivers/src/n32g031_spi.o
+ .text.SPI_I2S_ClrITPendingBit
+                0x00000000       0x40 build/drivers/src/n32g031_spi.o
+ .debug_info    0x00000000      0x91e build/drivers/src/n32g031_spi.o
+ .debug_abbrev  0x00000000      0x1fa build/drivers/src/n32g031_spi.o
+ .debug_aranges
+                0x00000000       0xd0 build/drivers/src/n32g031_spi.o
+ .debug_rnglists
+                0x00000000       0x9a build/drivers/src/n32g031_spi.o
+ .debug_line    0x00000000      0x593 build/drivers/src/n32g031_spi.o
+ .debug_str     0x00000000      0x5ad build/drivers/src/n32g031_spi.o
+ .comment       0x00000000       0x3a build/drivers/src/n32g031_spi.o
+ .debug_frame   0x00000000      0x2f4 build/drivers/src/n32g031_spi.o
+ .ARM.attributes
+                0x00000000       0x2c build/drivers/src/n32g031_spi.o
+ .text          0x00000000        0x0 build/drivers/src/n32g031_sqrt.o
+ .data          0x00000000        0x0 build/drivers/src/n32g031_sqrt.o
+ .bss           0x00000000        0x0 build/drivers/src/n32g031_sqrt.o
+ .text.SQRT_ConfigInt
+                0x00000000       0x4c build/drivers/src/n32g031_sqrt.o
+ .text.SQRT_ClrIntPendingBit
+                0x00000000       0x1c build/drivers/src/n32g031_sqrt.o
+ .text.SQRT_GetIntStatus
+                0x00000000       0x34 build/drivers/src/n32g031_sqrt.o
+ .text.SQRT_GetFlagStatus
+                0x00000000       0x3c build/drivers/src/n32g031_sqrt.o
+ .text.SQRT_SetRADICANT_Data
+                0x00000000       0x1c build/drivers/src/n32g031_sqrt.o
+ .text.SQRT_GetRADICANT_Data
+                0x00000000       0x14 build/drivers/src/n32g031_sqrt.o
+ .text.SQRT_GetROOT_Data
+                0x00000000       0x14 build/drivers/src/n32g031_sqrt.o
+ .text.SQRT_Start
+                0x00000000       0x4c build/drivers/src/n32g031_sqrt.o
+ .debug_info    0x00000000      0x23a build/drivers/src/n32g031_sqrt.o
+ .debug_abbrev  0x00000000      0x15a build/drivers/src/n32g031_sqrt.o
+ .debug_aranges
+                0x00000000       0x58 build/drivers/src/n32g031_sqrt.o
+ .debug_rnglists
+                0x00000000       0x3d build/drivers/src/n32g031_sqrt.o
+ .debug_line    0x00000000      0x249 build/drivers/src/n32g031_sqrt.o
+ .debug_str     0x00000000      0x261 build/drivers/src/n32g031_sqrt.o
+ .comment       0x00000000       0x3a build/drivers/src/n32g031_sqrt.o
+ .debug_frame   0x00000000      0x104 build/drivers/src/n32g031_sqrt.o
+ .ARM.attributes
+                0x00000000       0x2c build/drivers/src/n32g031_sqrt.o
+ .text          0x00000000        0x0 build/drivers/src/n32g031_tim.o
+ .data          0x00000000        0x0 build/drivers/src/n32g031_tim.o
+ .bss           0x00000000        0x0 build/drivers/src/n32g031_tim.o
+ .text.TIM_DeInit
+                0x00000000       0x98 build/drivers/src/n32g031_tim.o
+ .text.TIM_InitTimeBase
+                0x00000000      0x1a8 build/drivers/src/n32g031_tim.o
+ .text.TIM_InitOc1
+                0x00000000      0x11c build/drivers/src/n32g031_tim.o
+ .text.TIM_InitOc2
+                0x00000000      0x128 build/drivers/src/n32g031_tim.o
+ .text.TIM_InitOc3
+                0x00000000      0x128 build/drivers/src/n32g031_tim.o
+ .text.TIM_InitOc4
+                0x00000000       0xf0 build/drivers/src/n32g031_tim.o
+ .text.TIM_InitOc5
+                0x00000000       0xd8 build/drivers/src/n32g031_tim.o
+ .text.TIM_InitOc6
+                0x00000000       0xe4 build/drivers/src/n32g031_tim.o
+ .text.TIM_ICInit
+                0x00000000       0xb0 build/drivers/src/n32g031_tim.o
+ .text.TIM_ConfigPwmIc
+                0x00000000       0xea build/drivers/src/n32g031_tim.o
+ .text.TIM_ConfigBkdt
+                0x00000000       0xb8 build/drivers/src/n32g031_tim.o
+ .text.TIM_InitTimBaseStruct
+                0x00000000       0x4e build/drivers/src/n32g031_tim.o
+ .text.TIM_InitOcStruct
+                0x00000000       0x40 build/drivers/src/n32g031_tim.o
+ .text.TIM_InitIcStruct
+                0x00000000       0x2e build/drivers/src/n32g031_tim.o
+ .text.TIM_InitBkdtStruct
+                0x00000000       0x3a build/drivers/src/n32g031_tim.o
+ .text.TIM_Enable
+                0x00000000       0x3a build/drivers/src/n32g031_tim.o
+ .text.TIM_EnableCtrlPwmOutputs
+                0x00000000       0x4c build/drivers/src/n32g031_tim.o
+ .text.TIM_ConfigInt
+                0x00000000       0x52 build/drivers/src/n32g031_tim.o
+ .text.TIM_GenerateEvent
+                0x00000000       0x1e build/drivers/src/n32g031_tim.o
+ .text.TIM_ConfigDma
+                0x00000000       0x32 build/drivers/src/n32g031_tim.o
+ .text.TIM_EnableDma
+                0x00000000       0x52 build/drivers/src/n32g031_tim.o
+ .text.TIM_ConfigInternalClk
+                0x00000000       0x20 build/drivers/src/n32g031_tim.o
+ .text.TIM_ConfigInternalTrigToExt
+                0x00000000       0x34 build/drivers/src/n32g031_tim.o
+ .text.TIM_ConfigExtTrigAsClk
+                0x00000000       0x7c build/drivers/src/n32g031_tim.o
+ .text.TIM_ConfigExtClkMode1
+                0x00000000       0x8c build/drivers/src/n32g031_tim.o
+ .text.TIM_ConfigExtClkMode2
+                0x00000000       0x52 build/drivers/src/n32g031_tim.o
+ .text.TIM_ConfigExtTrig
+                0x00000000       0x72 build/drivers/src/n32g031_tim.o
+ .text.TIM_ConfigPrescaler
+                0x00000000       0x30 build/drivers/src/n32g031_tim.o
+ .text.TIM_ConfigCntMode
+                0x00000000       0x38 build/drivers/src/n32g031_tim.o
+ .text.TIM_SelectInputTrig
+                0x00000000       0x48 build/drivers/src/n32g031_tim.o
+ .text.TIM_ConfigEncoderInterface
+                0x00000000       0xc8 build/drivers/src/n32g031_tim.o
+ .text.TIM_ConfigForcedOc1
+                0x00000000       0x48 build/drivers/src/n32g031_tim.o
+ .text.TIM_ConfigForcedOc2
+                0x00000000       0x50 build/drivers/src/n32g031_tim.o
+ .text.TIM_ConfigForcedOc3
+                0x00000000       0x48 build/drivers/src/n32g031_tim.o
+ .text.TIM_ConfigForcedOc4
+                0x00000000       0x50 build/drivers/src/n32g031_tim.o
+ .text.TIM_ConfigForcedOc5
+                0x00000000       0x4c build/drivers/src/n32g031_tim.o
+ .text.TIM_ConfigForcedOc6
+                0x00000000       0x54 build/drivers/src/n32g031_tim.o
+ .text.TIM_ConfigArPreload
+                0x00000000       0x3a build/drivers/src/n32g031_tim.o
+ .text.TIM_SelectComEvt
+                0x00000000       0x3a build/drivers/src/n32g031_tim.o
+ .text.TIM_SelectCapCmpDmaSrc
+                0x00000000       0x3a build/drivers/src/n32g031_tim.o
+ .text.TIM_EnableCapCmpPreloadControl
+                0x00000000       0x3a build/drivers/src/n32g031_tim.o
+ .text.TIM_ConfigOc1Preload
+                0x00000000       0x48 build/drivers/src/n32g031_tim.o
+ .text.TIM_ConfigOc2Preload
+                0x00000000       0x50 build/drivers/src/n32g031_tim.o
+ .text.TIM_ConfigOc3Preload
+                0x00000000       0x48 build/drivers/src/n32g031_tim.o
+ .text.TIM_ConfigOc4Preload
+                0x00000000       0x50 build/drivers/src/n32g031_tim.o
+ .text.TIM_ConfigOc5Preload
+                0x00000000       0x4c build/drivers/src/n32g031_tim.o
+ .text.TIM_ConfigOc6Preload
+                0x00000000       0x54 build/drivers/src/n32g031_tim.o
+ .text.TIM_ConfigOc1Fast
+                0x00000000       0x48 build/drivers/src/n32g031_tim.o
+ .text.TIM_ConfigOc2Fast
+                0x00000000       0x50 build/drivers/src/n32g031_tim.o
+ .text.TIM_ConfigOc3Fast
+                0x00000000       0x48 build/drivers/src/n32g031_tim.o
+ .text.TIM_ConfigOc4Fast
+                0x00000000       0x50 build/drivers/src/n32g031_tim.o
+ .text.TIM_ConfigOc5Fast
+                0x00000000       0x4c build/drivers/src/n32g031_tim.o
+ .text.TIM_ConfigOc6Fast
+                0x00000000       0x54 build/drivers/src/n32g031_tim.o
+ .text.TIM_ClrOc1Ref
+                0x00000000       0x48 build/drivers/src/n32g031_tim.o
+ .text.TIM_ClrOc2Ref
+                0x00000000       0x4c build/drivers/src/n32g031_tim.o
+ .text.TIM_ClrOc3Ref
+                0x00000000       0x48 build/drivers/src/n32g031_tim.o
+ .text.TIM_ClrOc4Ref
+                0x00000000       0x4c build/drivers/src/n32g031_tim.o
+ .text.TIM_ClrOc5Ref
+                0x00000000       0x4c build/drivers/src/n32g031_tim.o
+ .text.TIM_ClrOc6Ref
+                0x00000000       0x50 build/drivers/src/n32g031_tim.o
+ .text.TIM_ConfigOc1Polarity
+                0x00000000       0x38 build/drivers/src/n32g031_tim.o
+ .text.TIM_ConfigOc1NPolarity
+                0x00000000       0x38 build/drivers/src/n32g031_tim.o
+ .text.TIM_ConfigOc2Polarity
+                0x00000000       0x3a build/drivers/src/n32g031_tim.o
+ .text.TIM_ConfigOc2NPolarity
+                0x00000000       0x3a build/drivers/src/n32g031_tim.o
+ .text.TIM_ConfigOc3Polarity
+                0x00000000       0x40 build/drivers/src/n32g031_tim.o
+ .text.TIM_ConfigOc3NPolarity
+                0x00000000       0x40 build/drivers/src/n32g031_tim.o
+ .text.TIM_ConfigOc4Polarity
+                0x00000000       0x40 build/drivers/src/n32g031_tim.o
+ .text.TIM_ConfigOc5Polarity
+                0x00000000       0x40 build/drivers/src/n32g031_tim.o
+ .text.TIM_ConfigOc6Polarity
+                0x00000000       0x40 build/drivers/src/n32g031_tim.o
+ .text.TIM_EnableCapCmpCh
+                0x00000000       0x54 build/drivers/src/n32g031_tim.o
+ .text.TIM_EnableCapCmpChN
+                0x00000000       0x54 build/drivers/src/n32g031_tim.o
+ .text.TIM_SelectOcMode
+                0x00000000       0xcc build/drivers/src/n32g031_tim.o
+ .text.TIM_EnableUpdateEvt
+                0x00000000       0x3a build/drivers/src/n32g031_tim.o
+ .text.TIM_ConfigUpdateRequestIntSrc
+                0x00000000       0x3a build/drivers/src/n32g031_tim.o
+ .text.TIM_SelectHallSensor
+                0x00000000       0x3a build/drivers/src/n32g031_tim.o
+ .text.TIM_SelectOnePulseMode
+                0x00000000       0x32 build/drivers/src/n32g031_tim.o
+ .text.TIM_SelectOutputTrig
+                0x00000000       0x32 build/drivers/src/n32g031_tim.o
+ .text.TIM_SelectSlaveMode
+                0x00000000       0x38 build/drivers/src/n32g031_tim.o
+ .text.TIM_SelectMasterSlaveMode
+                0x00000000       0x38 build/drivers/src/n32g031_tim.o
+ .text.TIM_SetCnt
+                0x00000000       0x1e build/drivers/src/n32g031_tim.o
+ .text.TIM_SetAutoReload
+                0x00000000       0x1e build/drivers/src/n32g031_tim.o
+ .text.TIM_SetCmp1
+                0x00000000       0x1e build/drivers/src/n32g031_tim.o
+ .text.TIM_SetCmp2
+                0x00000000       0x1e build/drivers/src/n32g031_tim.o
+ .text.TIM_SetCmp3
+                0x00000000       0x1e build/drivers/src/n32g031_tim.o
+ .text.TIM_SetCmp4
+                0x00000000       0x20 build/drivers/src/n32g031_tim.o
+ .text.TIM_SetCmp5
+                0x00000000       0x20 build/drivers/src/n32g031_tim.o
+ .text.TIM_SetCmp6
+                0x00000000       0x20 build/drivers/src/n32g031_tim.o
+ .text.TIM_SetInCap1Prescaler
+                0x00000000       0x38 build/drivers/src/n32g031_tim.o
+ .text.TIM_SetInCap2Prescaler
+                0x00000000       0x40 build/drivers/src/n32g031_tim.o
+ .text.TIM_SetInCap3Prescaler
+                0x00000000       0x38 build/drivers/src/n32g031_tim.o
+ .text.TIM_SetInCap4Prescaler
+                0x00000000       0x40 build/drivers/src/n32g031_tim.o
+ .text.TIM_SetClkDiv
+                0x00000000       0x34 build/drivers/src/n32g031_tim.o
+ .text.TIM_GetCap1
+                0x00000000       0x16 build/drivers/src/n32g031_tim.o
+ .text.TIM_GetCap2
+                0x00000000       0x16 build/drivers/src/n32g031_tim.o
+ .text.TIM_GetCap3
+                0x00000000       0x16 build/drivers/src/n32g031_tim.o
+ .text.TIM_GetCap4
+                0x00000000       0x18 build/drivers/src/n32g031_tim.o
+ .text.TIM_GetCap5
+                0x00000000       0x18 build/drivers/src/n32g031_tim.o
+ .text.TIM_GetCap6
+                0x00000000       0x18 build/drivers/src/n32g031_tim.o
+ .text.TIM_GetCnt
+                0x00000000       0x16 build/drivers/src/n32g031_tim.o
+ .text.TIM_GetPrescaler
+                0x00000000       0x16 build/drivers/src/n32g031_tim.o
+ .text.TIM_GetAutoReload
+                0x00000000       0x16 build/drivers/src/n32g031_tim.o
+ .text.TIM_GetCCENStatus
+                0x00000000       0x80 build/drivers/src/n32g031_tim.o
+ .text.TIM_GetFlagStatus
+                0x00000000       0x3a build/drivers/src/n32g031_tim.o
+ .text.TIM_ClearFlag
+                0x00000000       0x1a build/drivers/src/n32g031_tim.o
+ .text.TIM_GetIntStatus
+                0x00000000       0x5c build/drivers/src/n32g031_tim.o
+ .text.TIM_ClrIntPendingBit
+                0x00000000       0x1a build/drivers/src/n32g031_tim.o
+ .text.ConfigTI1
+                0x00000000       0xe8 build/drivers/src/n32g031_tim.o
+ .text.ConfigTI2
+                0x00000000       0xfc build/drivers/src/n32g031_tim.o
+ .text.ConfigTI3
+                0x00000000       0xfc build/drivers/src/n32g031_tim.o
+ .text.ConfigTI4
+                0x00000000      0x104 build/drivers/src/n32g031_tim.o
+ .debug_info    0x00000000     0x2135 build/drivers/src/n32g031_tim.o
+ .debug_abbrev  0x00000000      0x20b build/drivers/src/n32g031_tim.o
+ .debug_aranges
+                0x00000000      0x380 build/drivers/src/n32g031_tim.o
+ .debug_rnglists
+                0x00000000      0x2ae build/drivers/src/n32g031_tim.o
+ .debug_line    0x00000000     0x1470 build/drivers/src/n32g031_tim.o
+ .debug_str     0x00000000      0xf58 build/drivers/src/n32g031_tim.o
+ .comment       0x00000000       0x3a build/drivers/src/n32g031_tim.o
+ .debug_frame   0x00000000      0xdd0 build/drivers/src/n32g031_tim.o
+ .ARM.attributes
+                0x00000000       0x2c build/drivers/src/n32g031_tim.o
+ .text          0x00000000        0x0 build/drivers/src/n32g031_usart.o
+ .data          0x00000000        0x0 build/drivers/src/n32g031_usart.o
+ .bss           0x00000000        0x0 build/drivers/src/n32g031_usart.o
+ .text.USART_DeInit
+                0x00000000       0x5c build/drivers/src/n32g031_usart.o
+ .text.USART_Init
+                0x00000000      0x138 build/drivers/src/n32g031_usart.o
+ .text.USART_StructInit
+                0x00000000       0x36 build/drivers/src/n32g031_usart.o
+ .text.USART_ClockInit
+                0x00000000       0x58 build/drivers/src/n32g031_usart.o
+ .text.USART_ClockStructInit
+                0x00000000       0x28 build/drivers/src/n32g031_usart.o
+ .text.USART_Enable
+                0x00000000       0x48 build/drivers/src/n32g031_usart.o
+ .text.USART_ConfigInt
+                0x00000000       0x9a build/drivers/src/n32g031_usart.o
+ .text.USART_EnableDMA
+                0x00000000       0x52 build/drivers/src/n32g031_usart.o
+ .text.USART_SetAddr
+                0x00000000       0x3a build/drivers/src/n32g031_usart.o
+ .text.USART_ConfigWakeUpMode
+                0x00000000       0x3c build/drivers/src/n32g031_usart.o
+ .text.USART_EnableRcvWakeUp
+                0x00000000       0x40 build/drivers/src/n32g031_usart.o
+ .text.USART_ConfigLINBreakDetectLength
+                0x00000000       0x38 build/drivers/src/n32g031_usart.o
+ .text.USART_EnableLIN
+                0x00000000       0x48 build/drivers/src/n32g031_usart.o
+ .text.USART_SendData
+                0x00000000       0x24 build/drivers/src/n32g031_usart.o
+ .text.USART_ReceiveData
+                0x00000000       0x1c build/drivers/src/n32g031_usart.o
+ .text.USART_SendBreak
+                0x00000000       0x20 build/drivers/src/n32g031_usart.o
+ .text.USART_SetGuardTime
+                0x00000000       0x3e build/drivers/src/n32g031_usart.o
+ .text.USART_SetPrescaler
+                0x00000000       0x3a build/drivers/src/n32g031_usart.o
+ .text.USART_EnableSmartCard
+                0x00000000       0x40 build/drivers/src/n32g031_usart.o
+ .text.USART_SetSmartCardNACK
+                0x00000000       0x40 build/drivers/src/n32g031_usart.o
+ .text.USART_EnableHalfDuplex
+                0x00000000       0x40 build/drivers/src/n32g031_usart.o
+ .text.USART_ConfigIrDAMode
+                0x00000000       0x38 build/drivers/src/n32g031_usart.o
+ .text.USART_EnableIrDA
+                0x00000000       0x40 build/drivers/src/n32g031_usart.o
+ .text.USART_GetFlagStatus
+                0x00000000       0x46 build/drivers/src/n32g031_usart.o
+ .text.USART_ClrFlag
+                0x00000000       0x28 build/drivers/src/n32g031_usart.o
+ .text.USART_GetIntStatus
+                0x00000000       0xca build/drivers/src/n32g031_usart.o
+ .text.USART_ClrIntPendingBit
+                0x00000000       0x4e build/drivers/src/n32g031_usart.o
+ .debug_info    0x00000000      0x9a4 build/drivers/src/n32g031_usart.o
+ .debug_abbrev  0x00000000      0x1d8 build/drivers/src/n32g031_usart.o
+ .debug_aranges
+                0x00000000       0xf0 build/drivers/src/n32g031_usart.o
+ .debug_rnglists
+                0x00000000       0xb2 build/drivers/src/n32g031_usart.o
+ .debug_line    0x00000000      0x62e build/drivers/src/n32g031_usart.o
+ .debug_str     0x00000000      0x65f build/drivers/src/n32g031_usart.o
+ .comment       0x00000000       0x3a build/drivers/src/n32g031_usart.o
+ .debug_frame   0x00000000      0x370 build/drivers/src/n32g031_usart.o
+ .ARM.attributes
+                0x00000000       0x2c build/drivers/src/n32g031_usart.o
+ .text          0x00000000        0x0 build/drivers/src/n32g031_wwdg.o
+ .data          0x00000000        0x0 build/drivers/src/n32g031_wwdg.o
+ .bss           0x00000000        0x0 build/drivers/src/n32g031_wwdg.o
+ .text.WWDG_DeInit
+                0x00000000       0x22 build/drivers/src/n32g031_wwdg.o
+ .text.WWDG_SetPrescalerDiv
+                0x00000000       0x34 build/drivers/src/n32g031_wwdg.o
+ .text.WWDG_SetWValue
+                0x00000000       0x3c build/drivers/src/n32g031_wwdg.o
+ .text.WWDG_EnableInt
+                0x00000000       0x1c build/drivers/src/n32g031_wwdg.o
+ .text.WWDG_SetCnt
+                0x00000000       0x24 build/drivers/src/n32g031_wwdg.o
+ .text.WWDG_Enable
+                0x00000000       0x28 build/drivers/src/n32g031_wwdg.o
+ .text.WWDG_GetEWINTF
+                0x00000000       0x14 build/drivers/src/n32g031_wwdg.o
+ .text.WWDG_ClrEWINTF
+                0x00000000       0x14 build/drivers/src/n32g031_wwdg.o
+ .debug_info    0x00000000      0x235 build/drivers/src/n32g031_wwdg.o
+ .debug_abbrev  0x00000000      0x157 build/drivers/src/n32g031_wwdg.o
+ .debug_aranges
+                0x00000000       0x58 build/drivers/src/n32g031_wwdg.o
+ .debug_rnglists
+                0x00000000       0x3d build/drivers/src/n32g031_wwdg.o
+ .debug_line    0x00000000      0x22d build/drivers/src/n32g031_wwdg.o
+ .debug_str     0x00000000      0x263 build/drivers/src/n32g031_wwdg.o
+ .comment       0x00000000       0x3a build/drivers/src/n32g031_wwdg.o
+ .debug_frame   0x00000000      0x100 build/drivers/src/n32g031_wwdg.o
+ .ARM.attributes
+                0x00000000       0x2c build/drivers/src/n32g031_wwdg.o
+ .text          0x00000000       0x14 build/startup/startup_n32g031_gcc.o
+ .data          0x00000000        0x0 build/startup/startup_n32g031_gcc.o
+ .bss           0x00000000        0x0 build/startup/startup_n32g031_gcc.o
+ .text          0x00000000      0x114 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .data          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .bss           0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .debug_frame   0x00000000       0x20 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .debug_line    0x00000000       0x56 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .debug_line_str
+                0x00000000      0x12c C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .debug_info    0x00000000       0x3e C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .debug_abbrev  0x00000000       0x28 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .debug_aranges
+                0x00000000       0x20 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .debug_str     0x00000000      0x155 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x00000000       0x1e C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .text          0x00000000      0x1d4 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+ .data          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+ .bss           0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+ .debug_frame   0x00000000       0x20 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+ .debug_line    0x00000000       0x5d C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+ .debug_line_str
+                0x00000000      0x12c C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+ .debug_info    0x00000000       0x3e C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+ .debug_abbrev  0x00000000       0x28 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+ .debug_aranges
+                0x00000000       0x20 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+ .debug_str     0x00000000      0x153 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x00000000       0x1e C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+ .text          0x00000000        0x4 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+ .data          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+ .debug_line    0x00000000       0x4a C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+ .debug_line_str
+                0x00000000      0x12c C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+ .debug_info    0x00000000       0x3c C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+ .debug_abbrev  0x00000000       0x26 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+ .debug_aranges
+                0x00000000       0x20 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+ .debug_str     0x00000000      0x156 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x00000000       0x1e C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+ .text          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-atexit.o)
+ .data          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-atexit.o)
+ .bss           0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-atexit.o)
+ .text          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-exit.o)
+ .data          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-exit.o)
+ .bss           0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-exit.o)
+ .text.exit     0x00000000       0x20 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-exit.o)
+ .comment       0x00000000       0x3a C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x2c C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-exit.o)
+ .text          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-findfp.o)
+ .data          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-findfp.o)
+ .bss           0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-findfp.o)
+ .text.stdio_exit_handler
+                0x00000000       0x1c C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-findfp.o)
+ .text.cleanup_stdio
+                0x00000000       0x3c C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-findfp.o)
+ .text.__fp_lock
+                0x00000000       0x1c C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-findfp.o)
+ .text.__fp_unlock
+                0x00000000       0x1c C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-findfp.o)
+ .text.global_stdio_init.part.0
+                0x00000000      0x118 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-findfp.o)
+ .text.__sfp    0x00000000       0xc8 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-findfp.o)
+ .text.__sinit  0x00000000       0x38 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-findfp.o)
+ .text.__sfp_lock_acquire
+                0x00000000       0x10 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-findfp.o)
+ .text.__sfp_lock_release
+                0x00000000       0x10 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-findfp.o)
+ .text.__fp_lock_all
+                0x00000000       0x20 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-findfp.o)
+ .text.__fp_unlock_all
+                0x00000000       0x20 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-findfp.o)
+ .data.__sglue  0x00000000        0xc C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-findfp.o)
+ .bss.__sf      0x00000000      0x138 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-findfp.o)
+ .bss.__stdio_exit_handler
+                0x00000000        0x4 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-findfp.o)
+ .comment       0x00000000       0x3a C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-findfp.o)
+ .ARM.attributes
+                0x00000000       0x2c C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-findfp.o)
+ .text          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-fwalk.o)
+ .data          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-fwalk.o)
+ .bss           0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-fwalk.o)
+ .text._fwalk_sglue
+                0x00000000       0x44 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-fwalk.o)
+ .comment       0x00000000       0x3a C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-fwalk.o)
+ .ARM.attributes
+                0x00000000       0x2c C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-fwalk.o)
+ .text          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-stdio.o)
+ .data          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-stdio.o)
+ .bss           0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-stdio.o)
+ .text.__sread  0x00000000       0x28 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-stdio.o)
+ .text.__seofread
+                0x00000000        0x4 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-stdio.o)
+ .text.__swrite
+                0x00000000       0x40 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-stdio.o)
+ .text.__sseek  0x00000000       0x2c C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-stdio.o)
+ .text.__sclose
+                0x00000000        0xc C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-stdio.o)
+ .comment       0x00000000       0x3a C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-stdio.o)
+ .ARM.attributes
+                0x00000000       0x2c C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-stdio.o)
+ .text          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-memset.o)
+ .data          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-memset.o)
+ .bss           0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-memset.o)
+ .text.memset   0x00000000       0x94 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-memset.o)
+ .comment       0x00000000       0x3a C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-memset.o)
+ .ARM.attributes
+                0x00000000       0x2c C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-memset.o)
+ .text          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-closer.o)
+ .data          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-closer.o)
+ .bss           0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-closer.o)
+ .text._close_r
+                0x00000000       0x24 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-closer.o)
+ .comment       0x00000000       0x3a C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-closer.o)
+ .ARM.attributes
+                0x00000000       0x2c C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-closer.o)
+ .text          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-reent.o)
+ .data          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-reent.o)
+ .bss           0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-reent.o)
+ .text._reclaim_reent
+                0x00000000       0x74 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-reent.o)
+ .bss.errno     0x00000000        0x4 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-reent.o)
+ .comment       0x00000000       0x3a C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-reent.o)
+ .ARM.attributes
+                0x00000000       0x2c C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-reent.o)
+ .text          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-impure.o)
+ .data          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-impure.o)
+ .bss           0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-impure.o)
+ .data._impure_data
+                0x00000000      0x140 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-impure.o)
+ .comment       0x00000000       0x3a C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-impure.o)
+ .ARM.attributes
+                0x00000000       0x2c C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-impure.o)
+ .text          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-lseekr.o)
+ .data          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-lseekr.o)
+ .bss           0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-lseekr.o)
+ .text._lseek_r
+                0x00000000       0x28 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-lseekr.o)
+ .comment       0x00000000       0x3a C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-lseekr.o)
+ .ARM.attributes
+                0x00000000       0x2c C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-lseekr.o)
+ .text          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-readr.o)
+ .data          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-readr.o)
+ .bss           0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-readr.o)
+ .text._read_r  0x00000000       0x28 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-readr.o)
+ .comment       0x00000000       0x3a C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-readr.o)
+ .ARM.attributes
+                0x00000000       0x2c C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-readr.o)
+ .text          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-writer.o)
+ .data          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-writer.o)
+ .bss           0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-writer.o)
+ .text._write_r
+                0x00000000       0x28 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-writer.o)
+ .comment       0x00000000       0x3a C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-writer.o)
+ .ARM.attributes
+                0x00000000       0x2c C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-writer.o)
+ .text          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-init.o)
+ .data          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-init.o)
+ .bss           0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-init.o)
+ .text          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-fini.o)
+ .data          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-fini.o)
+ .bss           0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-fini.o)
+ .text          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-lock.o)
+ .data          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-lock.o)
+ .bss           0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-lock.o)
+ .text.__retarget_lock_init
+                0x00000000        0x4 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x00000000        0x4 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-lock.o)
+ .text.__retarget_lock_close
+                0x00000000        0x4 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x00000000        0x4 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x00000000        0x4 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x00000000        0x4 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x00000000        0x4 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-lock.o)
+ .text.__retarget_lock_release
+                0x00000000        0x4 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-lock.o)
+ .bss.__lock___arc4random_mutex
+                0x00000000        0x1 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-lock.o)
+ .bss.__lock___dd_hash_mutex
+                0x00000000        0x1 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-lock.o)
+ .bss.__lock___tz_mutex
+                0x00000000        0x1 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-lock.o)
+ .bss.__lock___env_recursive_mutex
+                0x00000000        0x1 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-lock.o)
+ .bss.__lock___malloc_recursive_mutex
+                0x00000000        0x1 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-lock.o)
+ .bss.__lock___at_quick_exit_mutex
+                0x00000000        0x1 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-lock.o)
+ .bss.__lock___sfp_recursive_mutex
+                0x00000000        0x1 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-lock.o)
+ .text          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-__atexit.o)
+ .data          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-__atexit.o)
+ .bss           0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-__atexit.o)
+ .text          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-__call_atexit.o)
+ .data          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-__call_atexit.o)
+ .bss           0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x00000000       0xfc C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-__call_atexit.o)
+ .text          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-freer.o)
+ .data          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-freer.o)
+ .bss           0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-freer.o)
+ .text._malloc_trim_r
+                0x00000000       0xb4 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-freer.o)
+ .text._free_r  0x00000000      0x1f0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-freer.o)
+ .comment       0x00000000       0x3a C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-freer.o)
+ .ARM.attributes
+                0x00000000       0x2c C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-freer.o)
+ .text          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-mallocr.o)
+ .data          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-mallocr.o)
+ .bss           0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-mallocr.o)
+ .text._malloc_r
+                0x00000000      0x5cc C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-mallocr.o)
+ .bss.__malloc_current_mallinfo
+                0x00000000       0x28 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-mallocr.o)
+ .bss.__malloc_max_total_mem
+                0x00000000        0x4 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-mallocr.o)
+ .bss.__malloc_max_sbrked_mem
+                0x00000000        0x4 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-mallocr.o)
+ .data.__malloc_sbrk_base
+                0x00000000        0x4 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-mallocr.o)
+ .bss.__malloc_top_pad
+                0x00000000        0x4 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-mallocr.o)
+ .data.__malloc_trim_threshold
+                0x00000000        0x4 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-mallocr.o)
+ .data.__malloc_av_
+                0x00000000      0x408 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-mallocr.o)
+ .comment       0x00000000       0x3a C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-mallocr.o)
+ .ARM.attributes
+                0x00000000       0x2c C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-mallocr.o)
+ .text          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-mlock.o)
+ .data          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-mlock.o)
+ .bss           0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-mlock.o)
+ .text.__malloc_lock
+                0x00000000       0x10 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-mlock.o)
+ .text.__malloc_unlock
+                0x00000000       0x10 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-mlock.o)
+ .comment       0x00000000       0x3a C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-mlock.o)
+ .ARM.attributes
+                0x00000000       0x2c C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-mlock.o)
+ .text          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-fclose.o)
+ .data          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-fclose.o)
+ .bss           0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-fclose.o)
+ .text._fclose_r
+                0x00000000       0xcc C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-fclose.o)
+ .text.fclose   0x00000000       0x14 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-fclose.o)
+ .comment       0x00000000       0x3a C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-fclose.o)
+ .ARM.attributes
+                0x00000000       0x2c C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-fclose.o)
+ .text          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-fflush.o)
+ .data          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-fflush.o)
+ .bss           0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-fflush.o)
+ .text.__sflush_r
+                0x00000000      0x13c C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-fflush.o)
+ .text._fflush_r
+                0x00000000       0x68 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-fflush.o)
+ .text.fflush   0x00000000       0x7c C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-fflush.o)
+ .comment       0x00000000       0x3a C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-fflush.o)
+ .ARM.attributes
+                0x00000000       0x2c C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-fflush.o)
+ .text          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-sbrkr.o)
+ .data          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-sbrkr.o)
+ .bss           0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-sbrkr.o)
+ .text._sbrk_r  0x00000000       0x24 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-sbrkr.o)
+ .comment       0x00000000       0x3a C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-sbrkr.o)
+ .ARM.attributes
+                0x00000000       0x2c C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-sbrkr.o)
+ .text          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-sysconf.o)
+ .data          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-sysconf.o)
+ .bss           0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-sysconf.o)
+ .text.sysconf  0x00000000       0x1c C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-sysconf.o)
+ .comment       0x00000000       0x3a C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-sysconf.o)
+ .ARM.attributes
+                0x00000000       0x2c C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-sysconf.o)
+ .text          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-errno.o)
+ .data          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-errno.o)
+ .bss           0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-errno.o)
+ .text.__errno  0x00000000        0xc C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-errno.o)
+ .comment       0x00000000       0x3a C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-errno.o)
+ .ARM.attributes
+                0x00000000       0x2c C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-errno.o)
+ .text          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(close.o)
+ .data          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(close.o)
+ .bss           0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(close.o)
+ .text._close   0x00000000       0x10 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(close.o)
+ .gnu.warning._close
+                0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(close.o)
+ .comment       0x00000000       0x3a C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(close.o)
+ .ARM.attributes
+                0x00000000       0x2c C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(close.o)
+ .text          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(lseek.o)
+ .data          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(lseek.o)
+ .bss           0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(lseek.o)
+ .text._lseek   0x00000000       0x10 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(lseek.o)
+ .gnu.warning._lseek
+                0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(lseek.o)
+ .comment       0x00000000       0x3a C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(lseek.o)
+ .ARM.attributes
+                0x00000000       0x2c C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(lseek.o)
+ .text          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(read.o)
+ .data          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(read.o)
+ .bss           0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(read.o)
+ .text._read    0x00000000       0x10 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(read.o)
+ .gnu.warning._read
+                0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(read.o)
+ .comment       0x00000000       0x3a C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(read.o)
+ .ARM.attributes
+                0x00000000       0x2c C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(read.o)
+ .text          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(sbrk.o)
+ .data          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(sbrk.o)
+ .bss           0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(sbrk.o)
+ .text._sbrk    0x00000000       0x1c C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(sbrk.o)
+ .bss.heap_end.0
+                0x00000000        0x4 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(sbrk.o)
+ .comment       0x00000000       0x3a C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(sbrk.o)
+ .ARM.attributes
+                0x00000000       0x2c C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(sbrk.o)
+ .text          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(write.o)
+ .data          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(write.o)
+ .bss           0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(write.o)
+ .text._write   0x00000000       0x10 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(write.o)
+ .gnu.warning._write
+                0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(write.o)
+ .comment       0x00000000       0x3a C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(write.o)
+ .ARM.attributes
+                0x00000000       0x2c C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(write.o)
+ .text          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(_exit.o)
+ .data          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(_exit.o)
+ .bss           0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(_exit.o)
+ .text._exit    0x00000000        0x4 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(_exit.o)
+ .comment       0x00000000       0x3a C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(_exit.o)
+ .ARM.attributes
+                0x00000000       0x2c C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(_exit.o)
+ .text          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp/crtend.o
+ .data          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp/crtend.o
+ .bss           0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp/crtend.o
+ .rodata.all_implied_fbits
+                0x00000000       0x24 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp/crtend.o
+ .eh_frame      0x00000000        0x4 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp/crtend.o
+ .comment       0x00000000       0x3a C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp/crtend.o
+ .ARM.attributes
+                0x00000000       0x2c C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp/crtend.o
+ .text          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp/crtn.o
+ .data          0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp/crtn.o
+ .bss           0x00000000        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x20000000         0x00002000         xrw
+FLASH            0x08000000         0x00010000         xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp/crti.o
+LOAD C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp/crtbegin.o
+LOAD C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+LOAD build/src/main.o
+LOAD build/src/misc.o
+LOAD build/src/n32g031_it.o
+LOAD build/src/oled.o
+LOAD build/src/system_n32g031.o
+LOAD build/src/utils.o
+LOAD build/drivers/src/n32g031_adc.o
+LOAD build/drivers/src/n32g031_beeper.o
+LOAD build/drivers/src/n32g031_comp.o
+LOAD build/drivers/src/n32g031_crc.o
+LOAD build/drivers/src/n32g031_dbg.o
+LOAD build/drivers/src/n32g031_dma.o
+LOAD build/drivers/src/n32g031_exti.o
+LOAD build/drivers/src/n32g031_flash.o
+LOAD build/drivers/src/n32g031_gpio.o
+LOAD build/drivers/src/n32g031_hdiv.o
+LOAD build/drivers/src/n32g031_i2c.o
+LOAD build/drivers/src/n32g031_iwdg.o
+LOAD build/drivers/src/n32g031_lptim.o
+LOAD build/drivers/src/n32g031_lpuart.o
+LOAD build/drivers/src/n32g031_opamp.o
+LOAD build/drivers/src/n32g031_pwr.o
+LOAD build/drivers/src/n32g031_rcc.o
+LOAD build/drivers/src/n32g031_rtc.o
+LOAD build/drivers/src/n32g031_spi.o
+LOAD build/drivers/src/n32g031_sqrt.o
+LOAD build/drivers/src/n32g031_tim.o
+LOAD build/drivers/src/n32g031_usart.o
+LOAD build/drivers/src/n32g031_wwdg.o
+LOAD build/startup/startup_n32g031_gcc.o
+START GROUP
+LOAD C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a
+LOAD C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a
+END GROUP
+START GROUP
+LOAD C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a
+LOAD C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a
+LOAD C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a
+END GROUP
+LOAD C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp/crtend.o
+LOAD C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp/crtn.o
+                0x20002000                        _estack = 0x20002000
+                0x00000200                        _Min_Heap_Size = 0x200
+                0x00000400                        _Min_Stack_Size = 0x400
+
+.isr_vector     0x08000000       0xc0
+                0x08000000                        . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000       0xc0 build/startup/startup_n32g031_gcc.o
+                0x08000000                g_pfnVectors
+                0x080000c0                        . = ALIGN (0x4)
+
+.text           0x080000c0      0xd48
+                0x080000c0                        . = ALIGN (0x4)
+ *(.text)
+ *(.text*)
+ .text.__do_global_dtors_aux
+                0x080000c0       0x28 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp/crtbegin.o
+ .text.frame_dummy
+                0x080000e8       0x20 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp/crtbegin.o
+ .text.main     0x08000108       0x20 build/src/main.o
+                0x08000108                main
+ .text.NMI_Handler
+                0x08000128        0xa build/src/n32g031_it.o
+                0x08000128                NMI_Handler
+ .text.HardFault_Handler
+                0x08000132        0x8 build/src/n32g031_it.o
+                0x08000132                HardFault_Handler
+ .text.SVC_Handler
+                0x0800013a        0xa build/src/n32g031_it.o
+                0x0800013a                SVC_Handler
+ .text.PendSV_Handler
+                0x08000144        0xa build/src/n32g031_it.o
+                0x08000144                PendSV_Handler
+ .text.SysTick_Handler
+                0x0800014e        0xa build/src/n32g031_it.o
+                0x0800014e                SysTick_Handler
+ .text.OLED_I2C_Delay
+                0x08000158       0x22 build/src/oled.o
+ *fill*         0x0800017a        0x2 
+ .text.OLED_I2C_Start
+                0x0800017c       0x44 build/src/oled.o
+ .text.OLED_I2C_Stop
+                0x080001c0       0x34 build/src/oled.o
+ .text.OLED_I2C_SendByte
+                0x080001f4       0xac build/src/oled.o
+ .text.OLED_WriteCmd
+                0x080002a0       0x32 build/src/oled.o
+                0x080002a0                OLED_WriteCmd
+ .text.OLED_WriteDat
+                0x080002d2       0x32 build/src/oled.o
+                0x080002d2                OLED_WriteDat
+ .text.OLED_SetCursor
+                0x08000304       0x4c build/src/oled.o
+                0x08000304                OLED_SetCursor
+ .text.OLED_Clear
+                0x08000350       0x66 build/src/oled.o
+                0x08000350                OLED_Clear
+ *fill*         0x080003b6        0x2 
+ .text.OLED_Init
+                0x080003b8      0x124 build/src/oled.o
+                0x080003b8                OLED_Init
+ .text.OLED_ShowChar
+                0x080004dc      0x15c build/src/oled.o
+                0x080004dc                OLED_ShowChar
+ .text.OLED_ShowString
+                0x08000638       0xa4 build/src/oled.o
+                0x08000638                OLED_ShowString
+ .text.SystemInit
+                0x080006dc       0x80 build/src/system_n32g031.o
+                0x080006dc                SystemInit
+ .text.SetSysClock
+                0x0800075c      0x124 build/src/system_n32g031.o
+ .text.GPIO_InitPeripheral
+                0x08000880      0x320 build/drivers/src/n32g031_gpio.o
+                0x08000880                GPIO_InitPeripheral
+ .text.GPIO_InitStruct
+                0x08000ba0       0x38 build/drivers/src/n32g031_gpio.o
+                0x08000ba0                GPIO_InitStruct
+ .text.GPIO_SetBits
+                0x08000bd8       0x1e build/drivers/src/n32g031_gpio.o
+                0x08000bd8                GPIO_SetBits
+ .text.GPIO_ResetBits
+                0x08000bf6       0x1e build/drivers/src/n32g031_gpio.o
+                0x08000bf6                GPIO_ResetBits
+ .text.RCC_EnableAPB2PeriphClk
+                0x08000c14       0x40 build/drivers/src/n32g031_rcc.o
+                0x08000c14                RCC_EnableAPB2PeriphClk
+ .text.Reset_Handler
+                0x08000c54       0x50 build/startup/startup_n32g031_gcc.o
+                0x08000c54                Reset_Handler
+ .text.Default_Handler
+                0x08000ca4        0x2 build/startup/startup_n32g031_gcc.o
+                0x08000ca4                TIM8_CC_IRQHandler
+                0x08000ca4                TIM1_CC_IRQHandler
+                0x08000ca4                PVD_IRQHandler
+                0x08000ca4                I2C1_IRQHandler
+                0x08000ca4                RAMC_PERR_IRQHandler
+                0x08000ca4                HDIV_SQRT_IRQHandler
+                0x08000ca4                SPI1_IRQHandler
+                0x08000ca4                DMA_Channel3_4_IRQHandler
+                0x08000ca4                EXTI2_3_IRQHandler
+                0x08000ca4                I2C2_IRQHandler
+                0x08000ca4                USART1_2_IRQHandler
+                0x08000ca4                RTC_IRQHandler
+                0x08000ca4                LPUART_IRQHandler
+                0x08000ca4                DMA_Channel5_IRQHandler
+                0x08000ca4                LPTIM_TIM6_IRQHandler
+                0x08000ca4                TIM3_IRQHandler
+                0x08000ca4                EXTI4_15_IRQHandler
+                0x08000ca4                RCC_IRQHandler
+                0x08000ca4                Default_Handler
+                0x08000ca4                RESERVE9_IRQHandler
+                0x08000ca4                ADC_IRQHandler
+                0x08000ca4                EXTI0_1_IRQHandler
+                0x08000ca4                MMU_IRQHandler
+                0x08000ca4                SPI2_IRQHandler
+                0x08000ca4                DMA_Channel1_2_IRQHandler
+                0x08000ca4                COMP_IRQHandler
+                0x08000ca4                WWDG_IRQHandler
+                0x08000ca4                DMA_Channel1_2_3_4_IRQHandler
+                0x08000ca4                USART2_IRQHandler
+                0x08000ca4                FLASH_IRQHandler
+                0x08000ca4                USART1_IRQHandler
+                0x08000ca4                TIM1_BRK_UP_TRG_COM_IRQHandler
+                0x08000ca4                TIM8_BRK_UP_TRG_COM_IRQHandler
+ *fill*         0x08000ca6        0x2 
+ .text.atexit   0x08000ca8       0x10 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-atexit.o)
+                0x08000ca8                atexit
+ .text.__libc_init_array
+                0x08000cb8       0x48 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-init.o)
+                0x08000cb8                __libc_init_array
+ .text.__libc_fini_array
+                0x08000d00       0x28 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-fini.o)
+                0x08000d00                __libc_fini_array
+ .text.__retarget_lock_acquire_recursive
+                0x08000d28        0x4 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-lock.o)
+                0x08000d28                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_release_recursive
+                0x08000d2c        0x4 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-lock.o)
+                0x08000d2c                __retarget_lock_release_recursive
+ .text.__register_exitproc
+                0x08000d30       0xa8 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-__atexit.o)
+                0x08000d30                __register_exitproc
+ .text.startup.register_fini
+                0x08000dd8       0x18 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-__call_atexit.o)
+ *(.glue_7)
+ .glue_7        0x08000df0        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x08000df0        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x08000df0        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp/crtbegin.o
+ *(.init)
+ .init          0x08000df0        0x4 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp/crti.o
+                0x08000df0                _init
+ .init          0x08000df4        0x8 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp/crtn.o
+ *(.fini)
+ .fini          0x08000dfc        0x4 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp/crti.o
+                0x08000dfc                _fini
+ .fini          0x08000e00        0x8 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp/crtn.o
+                0x08000e08                        . = ALIGN (0x4)
+                0x08000e08                        _etext = .
+
+.vfp11_veneer   0x08000e08        0x0
+ .vfp11_veneer  0x08000e08        0x0 linker stubs
+
+.v4_bx          0x08000e08        0x0
+ .v4_bx         0x08000e08        0x0 linker stubs
+
+.iplt           0x08000e08        0x0
+ .iplt          0x08000e08        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp/crtbegin.o
+
+.rodata         0x08000e08      0x7dc
+                0x08000e08                        . = ALIGN (0x4)
+ *(.rodata)
+ .rodata        0x08000e08        0x7 build/src/main.o
+ *(.rodata*)
+ *fill*         0x08000e0f        0x1 
+ .rodata.F6x8   0x08000e10      0x222 build/src/oled.o
+                0x08000e10                F6x8
+ *fill*         0x08001032        0x2 
+ .rodata.F8X16  0x08001034      0x5b0 build/src/oled.o
+                0x08001034                F8X16
+                0x080015e4                        . = ALIGN (0x4)
+
+.rel.dyn        0x080015e4        0x0
+ .rel.iplt      0x080015e4        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x080015e4        0x0
+                0x080015e4                        __exidx_start = .
+ *(.ARM.exidx*)
+                0x080015e4                        __exidx_end = .
+
+.preinit_array  0x080015e4        0x0
+                0x080015e4                        PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x080015e4                        PROVIDE (__preinit_array_end = .)
+
+.init_array     0x080015e4        0x8
+                0x080015e4                        PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ .init_array.00000
+                0x080015e4        0x4 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-__call_atexit.o)
+ *(.init_array*)
+ .init_array    0x080015e8        0x4 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp/crtbegin.o
+                0x080015ec                        PROVIDE (__init_array_end = .)
+
+.fini_array     0x080015ec        0x4
+                0x080015ec                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x080015ec        0x4 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp/crtbegin.o
+                0x080015f0                        PROVIDE (__fini_array_end = .)
+                0x080015f0                        _sidata = LOADADDR (.data)
+
+.data           0x20000000        0x4 load address 0x080015f0
+                0x20000000                        . = ALIGN (0x4)
+                0x20000000                        _sdata = .
+ *(.data)
+ *(.data*)
+ .data.__atexit_recursive_mutex
+                0x20000000        0x4 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-__call_atexit.o)
+                0x20000000                __atexit_recursive_mutex
+                0x20000004                        . = ALIGN (0x4)
+                0x20000004                        _edata = .
+
+.igot.plt       0x20000004        0x0 load address 0x080015f4
+ .igot.plt      0x20000004        0x0 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp/crtbegin.o
+                0x20000004                        . = ALIGN (0x4)
+
+.bss            0x20000004      0x1b4 load address 0x080015f4
+                0x20000004                        _sbss = .
+                0x20000004                        __bss_start__ = _sbss
+ *(.bss)
+ *(.bss*)
+ .bss.completed.1
+                0x20000004        0x1 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp/crtbegin.o
+ *fill*         0x20000005        0x3 
+ .bss.object.0  0x20000008       0x18 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp/crtbegin.o
+ .bss.__lock___atexit_recursive_mutex
+                0x20000020        0x1 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-lock.o)
+                0x20000020                __lock___atexit_recursive_mutex
+ *fill*         0x20000021        0x3 
+ .bss.__atexit0
+                0x20000024      0x190 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-__atexit.o)
+                0x20000024                __atexit0
+ .bss.__atexit  0x200001b4        0x4 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-__call_atexit.o)
+                0x200001b4                __atexit
+ *(COMMON)
+                0x200001b8                        . = ALIGN (0x4)
+                0x200001b8                        _ebss = .
+                0x200001b8                        __bss_end__ = _ebss
+
+._user_heap_stack
+                0x200001b8      0x600 load address 0x080015f4
+                0x200001b8                        . = ALIGN (0x8)
+                0x200001b8                        PROVIDE (end = .)
+                [!provide]                        PROVIDE (_end = .)
+                0x200003b8                        . = (. + _Min_Heap_Size)
+ *fill*         0x200001b8      0x200 
+                0x200007b8                        . = (. + _Min_Stack_Size)
+ *fill*         0x200003b8      0x400 
+                0x200007b8                        . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x00000000       0x28
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x1e C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp/crti.o
+ .ARM.attributes
+                0x0000001e       0x2c C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp/crtbegin.o
+ .ARM.attributes
+                0x0000004a       0x2c build/src/main.o
+ .ARM.attributes
+                0x00000076       0x2c build/src/n32g031_it.o
+ .ARM.attributes
+                0x000000a2       0x2c build/src/oled.o
+ .ARM.attributes
+                0x000000ce       0x2c build/src/system_n32g031.o
+ .ARM.attributes
+                0x000000fa       0x2c build/drivers/src/n32g031_gpio.o
+ .ARM.attributes
+                0x00000126       0x2c build/drivers/src/n32g031_rcc.o
+ .ARM.attributes
+                0x00000152       0x21 build/startup/startup_n32g031_gcc.o
+ .ARM.attributes
+                0x00000173       0x2c C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-atexit.o)
+ .ARM.attributes
+                0x0000019f       0x2c C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-init.o)
+ .ARM.attributes
+                0x000001cb       0x2c C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-fini.o)
+ .ARM.attributes
+                0x000001f7       0x2c C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-lock.o)
+ .ARM.attributes
+                0x00000223       0x2c C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-__atexit.o)
+ .ARM.attributes
+                0x0000024f       0x2c C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-__call_atexit.o)
+ .ARM.attributes
+                0x0000027b       0x1e C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp/crtn.o
+OUTPUT(build/My_Project.elf elf32-littlearm)
+LOAD linker stubs
+LOAD C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a
+LOAD C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a
+LOAD C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp\libgcc.a
+
+.comment        0x00000000       0x39
+ .comment       0x00000000       0x39 C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp/crtbegin.o
+                                 0x3a (size before relaxing)
+ .comment       0x00000039       0x3a build/src/main.o
+ .comment       0x00000039       0x3a build/src/n32g031_it.o
+ .comment       0x00000039       0x3a build/src/oled.o
+ .comment       0x00000039       0x3a build/src/system_n32g031.o
+ .comment       0x00000039       0x3a build/drivers/src/n32g031_gpio.o
+ .comment       0x00000039       0x3a build/drivers/src/n32g031_rcc.o
+ .comment       0x00000039       0x3a C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-atexit.o)
+ .comment       0x00000039       0x3a C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-init.o)
+ .comment       0x00000039       0x3a C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-fini.o)
+ .comment       0x00000039       0x3a C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-lock.o)
+ .comment       0x00000039       0x3a C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-__atexit.o)
+ .comment       0x00000039       0x3a C:/Users/USER/AppData/Local/UnityMbed/tools/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(libc_a-__call_atexit.o)
+
+.debug_info     0x00000000     0x1dcf
+ .debug_info    0x00000000       0xe1 build/src/main.o
+ .debug_info    0x000000e1       0xd4 build/src/n32g031_it.o
+ .debug_info    0x000001b5      0x505 build/src/oled.o
+ .debug_info    0x000006ba      0x31a build/src/system_n32g031.o
+ .debug_info    0x000009d4      0x81a build/drivers/src/n32g031_gpio.o
+ .debug_info    0x000011ee      0xbb1 build/drivers/src/n32g031_rcc.o
+ .debug_info    0x00001d9f       0x30 build/startup/startup_n32g031_gcc.o
+
+.debug_abbrev   0x00000000      0x8fc
+ .debug_abbrev  0x00000000       0x95 build/src/main.o
+ .debug_abbrev  0x00000095       0x45 build/src/n32g031_it.o
+ .debug_abbrev  0x000000da      0x1fb build/src/oled.o
+ .debug_abbrev  0x000002d5      0x16b build/src/system_n32g031.o
+ .debug_abbrev  0x00000440      0x240 build/drivers/src/n32g031_gpio.o
+ .debug_abbrev  0x00000680      0x258 build/drivers/src/n32g031_rcc.o
+ .debug_abbrev  0x000008d8       0x24 build/startup/startup_n32g031_gcc.o
+
+.debug_aranges  0x00000000      0x378
+ .debug_aranges
+                0x00000000       0x20 build/src/main.o
+ .debug_aranges
+                0x00000020       0x48 build/src/n32g031_it.o
+ .debug_aranges
+                0x00000068       0x70 build/src/oled.o
+ .debug_aranges
+                0x000000d8       0x30 build/src/system_n32g031.o
+ .debug_aranges
+                0x00000108       0xb0 build/drivers/src/n32g031_gpio.o
+ .debug_aranges
+                0x000001b8      0x198 build/drivers/src/n32g031_rcc.o
+ .debug_aranges
+                0x00000350       0x28 build/startup/startup_n32g031_gcc.o
+
+.debug_rnglists
+                0x00000000      0x287
+ .debug_rnglists
+                0x00000000       0x13 build/src/main.o
+ .debug_rnglists
+                0x00000013       0x31 build/src/n32g031_it.o
+ .debug_rnglists
+                0x00000044       0x53 build/src/oled.o
+ .debug_rnglists
+                0x00000097       0x22 build/src/system_n32g031.o
+ .debug_rnglists
+                0x000000b9       0x85 build/drivers/src/n32g031_gpio.o
+ .debug_rnglists
+                0x0000013e      0x130 build/drivers/src/n32g031_rcc.o
+ .debug_rnglists
+                0x0000026e       0x19 build/startup/startup_n32g031_gcc.o
+
+.debug_line     0x00000000     0x1b14
+ .debug_line    0x00000000      0x11f build/src/main.o
+ .debug_line    0x0000011f       0xa3 build/src/n32g031_it.o
+ .debug_line    0x000001c2      0x3f7 build/src/oled.o
+ .debug_line    0x000005b9      0x2e5 build/src/system_n32g031.o
+ .debug_line    0x0000089e      0x7c7 build/drivers/src/n32g031_gpio.o
+ .debug_line    0x00001065      0xa34 build/drivers/src/n32g031_rcc.o
+ .debug_line    0x00001a99       0x7b build/startup/startup_n32g031_gcc.o
+
+.debug_str      0x00000000      0xecb
+ .debug_str     0x00000000      0xecb build/src/main.o
+                                0x16f (size before relaxing)
+ .debug_str     0x00000ecb      0x18d build/src/n32g031_it.o
+ .debug_str     0x00000ecb      0x323 build/src/oled.o
+ .debug_str     0x00000ecb      0x29c build/src/system_n32g031.o
+ .debug_str     0x00000ecb      0x655 build/drivers/src/n32g031_gpio.o
+ .debug_str     0x00000ecb      0x884 build/drivers/src/n32g031_rcc.o
+ .debug_str     0x00000ecb       0x57 build/startup/startup_n32g031_gcc.o
+
+.debug_frame    0x00000000      0xb1c
+ .debug_frame   0x00000000       0x2c build/src/main.o
+ .debug_frame   0x0000002c       0xb8 build/src/n32g031_it.o
+ .debug_frame   0x000000e4      0x16c build/src/oled.o
+ .debug_frame   0x00000250       0x6c build/src/system_n32g031.o
+ .debug_frame   0x000002bc      0x26c build/drivers/src/n32g031_gpio.o
+ .debug_frame   0x00000528      0x5f4 build/drivers/src/n32g031_rcc.o
+
+.debug_line_str
+                0x00000000       0x3b
+ .debug_line_str
+                0x00000000       0x3b build/startup/startup_n32g031_gcc.o
