@@ -1,4 +1,4 @@
-# 🚀 UnityMbed Base Project (N32G031)
+# UnityMbed Base Project (N32G031)
 
 [English](#english) | [ภาษาไทย](#ภาษาไทย)
 
@@ -10,7 +10,7 @@ Welcome to the Base Project for the N32G031 microcontroller development board, p
 
 You can use this project as a foundation to create intelligent systems, ranging from basic projects to HMI panels or industrial-grade control systems.
 
-## 📂 Folder Structure
+## Folder Structure
 
 The main structure is as follows:
 
@@ -30,7 +30,7 @@ The main structure is as follows:
 3. **Build & Flash:**
    Click the **Build** and **Flash** buttons on the IDE to upload the program to your N32G031 board.
 
-## 🤖 AI Prompting Tips (The CLEAR Framework)
+## AI Prompting Tips (The CLEAR Framework)
 
 To get accurate and functional code on our platform, we recommend prompting the AI Assistant using the **CLEAR** structure:
 
@@ -48,7 +48,7 @@ To get accurate and functional code on our platform, we recommend prompting the 
 
 คุณสามารถใช้โปรเจคนี้เป็นรากฐานในการสร้างสรรค์ระบบอัจฉริยะ ตั้งแต่โปรเจคพื้นฐานไปจนถึง HMI Panel หรือระบบควบคุมระดับอุตสาหกรรม
 
-## 📂 โครงสร้างโฟลเดอร์ (Folder Structure)
+## โครงสร้างโฟลเดอร์ (Folder Structure)
 
 โครงสร้างหลักมีดังนี้:
 
@@ -68,7 +68,7 @@ To get accurate and functional code on our platform, we recommend prompting the 
 3. **Build & Flash:**
    กดปุ่ม Build และ Flash บน IDE เพื่ออัปโหลดโปรแกรมลงสู่บอร์ด N32G031
 
-## 🤖 AI Prompting Tips (สูตรการสั่งงาน AI)
+## AI Prompting Tips (สูตรการสั่งงาน AI)
 
 เพื่อให้ได้โค้ดที่แม่นยำและใช้งานได้จริงบนแพลตฟอร์มของเรา แนะนำให้สั่งงาน AI Assistant ด้วยโครงสร้างแบบ **CLEAR**:
 
