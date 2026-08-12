@@ -8,7 +8,12 @@ SIZE    = arm-none-eabi-size
 ######################################
 # Project Files
 ######################################
-TARGET = My_Project
+# The UnityMbed IDE builds with `make -j PROJECT=<name>` and then looks for
+# build/<name>.{elf,bin,hex} when it flashes or starts a debug session, so
+# TARGET has to follow PROJECT rather than being fixed. `?=` keeps the plain
+# `make` build working outside the IDE.
+PROJECT ?= My_Project
+TARGET = $(PROJECT)
 OUTDIR = build
 
 # Source Files
@@ -25,8 +30,10 @@ INCLUDES = -I. -Iinc -IN32_SDK -ICMSIS/Core/Include -Idrivers/inc -IN32G031_StdP
 # MCU Specific Flags
 MCU = -mcpu=cortex-m0 -mthumb
 
-# Compiler Flags
-CFLAGS = $(MCU) -O0 -g -Wall $(INCLUDES) \
+# Compiler Flags. CFLAGS_EXTRA is how the IDE turns on debug-grade output
+# (`-O0 -g3 -ggdb -DDEBUG`) before starting a gdb session; without the hook
+# those flags are silently dropped.
+CFLAGS = $(MCU) -O0 -g -Wall $(INCLUDES) $(CFLAGS_EXTRA) \
          -ffunction-sections -fdata-sections
 
 # Linker Flags
@@ -43,12 +50,19 @@ LDFLAGS = $(MCU) -T$(LDSCRIPT) \
 # Convert source list to object list in build directory
 OBJS = $(addprefix $(OUTDIR)/, $(addsuffix .o, $(basename $(SRCS))))
 
-all: $(OUTDIR)/$(TARGET).hex
+all: $(OUTDIR)/$(TARGET).bin $(OUTDIR)/$(TARGET).hex
 
 # Rule to create Hex from Elf
 $(OUTDIR)/$(TARGET).hex: $(OUTDIR)/$(TARGET).elf
 	$(OBJCOPY) -O ihex $< $@
 	$(SIZE) $<
+
+# Rule to create raw Bin from Elf. The IDE names the image it flashes
+# build/<name>.bin — n32g03x.cfg's n32_program rewrites that to .hex, but the
+# FPEC openocd.cfg used to work around the flaky Nations driver reads the raw
+# .bin, so both have to exist.
+$(OUTDIR)/$(TARGET).bin: $(OUTDIR)/$(TARGET).elf
+	$(OBJCOPY) -O binary $< $@
 
 # Rule to Link Elf
 $(OUTDIR)/$(TARGET).elf: $(OBJS)
