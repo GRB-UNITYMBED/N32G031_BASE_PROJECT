@@ -43,12 +43,16 @@ LDFLAGS = $(MCU) -T$(LDSCRIPT) \
 # Convert source list to object list in build directory
 OBJS = $(addprefix $(OUTDIR)/, $(addsuffix .o, $(basename $(SRCS))))
 
-all: $(OUTDIR)/$(TARGET).hex
+all: $(OUTDIR)/$(TARGET).hex $(OUTDIR)/$(TARGET).bin
 
 # Rule to create Hex from Elf
 $(OUTDIR)/$(TARGET).hex: $(OUTDIR)/$(TARGET).elf
 	$(OBJCOPY) -O ihex $< $@
 	$(SIZE) $<
+
+# Rule to create Bin from Elf (raw image for SWD flashing via openocd.cfg)
+$(OUTDIR)/$(TARGET).bin: $(OUTDIR)/$(TARGET).elf
+	$(OBJCOPY) -O binary $< $@
 
 # Rule to Link Elf
 $(OUTDIR)/$(TARGET).elf: $(OBJS)
