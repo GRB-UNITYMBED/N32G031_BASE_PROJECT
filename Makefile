@@ -26,8 +26,12 @@ INCLUDES = -I. -Iinc -IN32_SDK -ICMSIS/Core/Include -Idrivers/inc -IN32G031_StdP
 MCU = -mcpu=cortex-m0 -mthumb
 
 # Compiler Flags
-CFLAGS = $(MCU) -O0 -g -Wall $(INCLUDES) \
-         -ffunction-sections -fdata-sections
+# -g3 keeps macro definitions in the debug info, so the debugger can read
+# GPIOB->POD or RCC->APB2PCLKEN by name; with plain -g gdb answers
+# 'No symbol "GPIOB" in current context'. CFLAGS_EXTRA is how UnityMbed's
+# Debug passes its own flags (-O0 -g3 -ggdb -DDEBUG); it comes last so it wins.
+CFLAGS = $(MCU) -O0 -g3 -Wall $(INCLUDES) \
+         -ffunction-sections -fdata-sections $(CFLAGS_EXTRA)
 
 # Linker Flags
 LDSCRIPT = n32g031_flash.ld
